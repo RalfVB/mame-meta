@@ -577,7 +577,7 @@
 		<port>outrun</port>
 	</software>
 	<software name="override">
-		<category></category>
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="p47">
 		<category>Shooter / Flying Horizontal</category>
