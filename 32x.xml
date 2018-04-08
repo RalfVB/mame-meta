@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<softwarelist name="32x">
+	<software name="doom">
+	</software>
+	<software name="motox">
+	</software>
+	<software name="sharrier">
+	</software>
+	<software name="swa">
+	</software>
+	<software name="toughman">
+	</software>
+	<software name="vrdx">
+	</software>
+	<software name="aburner">
+	</software>
+	<software name="spidwebf">
+	</software>
+	<software name="bcracers">
+	</software>
+	<software name="blackthr">
+	</software>
+	<software name="brutal">
+	</software>
+	<software name="cosmicc">
+	</software>
+	<software name="darxide">
+	</software>
+	<software name="fifa96">
+	</software>
+	<software name="36great">
+	</software>
+	<software name="chaotix">
+	</software>
+	<software name="kolibri">
+	</software>
+	<software name="metalhd">
+	</software>
+	<software name="mk2">
+	</software>
+	<software name="nbajamte">
+	</software>
+	<software name="nflqb">
+	</software>
+	<software name="pitfall">
+	</software>
+	<software name="primal">
+	</software>
+	<software name="rbibb95">
+	</software>
+	<software name="sangoku4">
+	</software>
+	<software name="stellar">
+	</software>
+	<software name="soulstar">
+	</software>
+	<software name="stsfleet">
+	</software>
+	<software name="tmek">
+	</software>
+	<software name="tempo">
+	</software>
+	<software name="vf">
+	</software>
+	<software name="vham">
+	</software>
+	<software name="wsb">
+	</software>
+	<software name="wwfraw">
+	</software>
+	<software name="wwfag" supported="no">
+	</software>
+	<software name="xmen" supported="no">
+	</software>
+	<software name="zaxxon2k">
+	</software>
+</softwarelist>
