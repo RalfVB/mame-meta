@@ -3,6 +3,7 @@
 	<software name="1941">
 		<category>Shooter / Flying Vertical</category>
 		<port>1941</port>
+		<players>2</players>
 	</software>
 	<software name="aldynes">
 		<category>Shooter / Flying Horizontal</category>
