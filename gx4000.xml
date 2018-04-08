@@ -7,22 +7,25 @@
 		<category></category>
 	</software>
 	<software name="brubber">
-		<category></category>
+		<category>Driving / Race (chase view)</category>
 	</software>
 	<software name="coptr271">
 		<category></category>
 	</software>
 	<software name="crzycrs2">
-		<category></category>
+		<category>Driving / Race (chase view)</category>
+		<port></port>
 	</software>
 	<software name="dicktr">
 		<category></category>
 	</software>
 	<software name="firefor2">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="klax">
 		<category></category>
+		<port>klax</port>
 	</software>
 	<software name="mystical">
 		<category></category>
@@ -35,15 +38,18 @@
 	</software>
 	<software name="othunder">
 		<category></category>
+		<port>othunder</port>
 	</software>
 	<software name="pang">
 		<category></category>
+		<port>pang</port>
 	</software>
 	<software name="panzakb">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port></port>
 	</software>
 	<software name="pinmagic">
-		<category></category>
+		<category>Pinball</category>
 	</software>
 	<software name="plotting">
 		<category></category>
@@ -59,9 +65,10 @@
 	</software>
 	<software name="switchbl">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="tennisc2">
-		<category></category>
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="enforcer">
 		<category></category>
