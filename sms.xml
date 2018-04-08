@@ -9,14 +9,17 @@
 	<software name="94swc">
 	</software>
 	<software name="aburner">
+		<port>aburner</port>
 	</software>
 	<software name="aceoface">
 	</software>
 	<software name="actionfg">
+		<port>actionfg</port>
 	</software>
 	<software name="addfam">
 	</software>
 	<software name="aerialas">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="airresc">
 	</software>
@@ -67,6 +70,7 @@
 	<software name="astropit">
 	</software>
 	<software name="astrow">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="aliensyn">
 	</software>
@@ -512,8 +516,10 @@
 	<software name="poseidon">
 	</software>
 	<software name="pstrike">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="pstrike2">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="ppersia">
 	</software>
@@ -566,10 +572,14 @@
 	<software name="rocky">
 	</software>
 	<software name="rtype">
+		<category>Shooter / Flying Horizontal</category>
+		<port>rtype</port>
 	</software>
 	<software name="running">
 	</software>
 	<software name="sagaia">
+		<category>Shooter / Flying Horizontal</category>
+		<port>darius2</port>
 	</software>
 	<software name="sangoku3">
 	</software>
@@ -578,6 +588,7 @@
 	<software name="sci">
 	</software>
 	<software name="sspirits">
+		<category>Shooter / Flying Vertical</category>		
 	</software>
 	<software name="secret">
 	</software>
@@ -594,6 +605,7 @@
 	<software name="skyjag">
 	</software>
 	<software name="sf2">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="shdancer">
 	</software>
@@ -728,6 +740,7 @@
 	<software name="totowld3">
 	</software>
 	<software name="transbot">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="trivial">
 	</software>
@@ -790,9 +803,8 @@
 	<software name="woodypop">
 	</software>
 	<software name="xenon2">
-	</software>
-	<software name="xenon2v">
-	</software>
+		<category>Shooter / Flying Vertical</category>
+	</software>	
 	<software name="xevious">
 	</software>
 	<software name="xmenmojo">
