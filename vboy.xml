@@ -1,57 +1,81 @@
 <?xml version="1.0"?>
 <softwarelist name="vboy">
 	<software name="3dtetris">
+		<category></category>
 	</software>
 	<software name="boundh">
+		<category></category>
 	</software>
 	<software name="galactic">
 		<category>Pinball</category>
 	</software>
 	<software name="golf">
+		<category></category>
 	</software>
 	<software name="innsmout">
+		<category></category>		
 	</software>
 	<software name="jackbros">
+		<category></category>
 	</software>
 	<software name="mariocla">
+		<category></category>
 	</software>
 	<software name="marioten">
+		<category></category>
 	</software>
 	<software name="nesterfb">
+		<category></category>
 	</software>
 	<software name="nikochan">
+		<category></category>
 	</software>
 	<software name="panicbom">
+		<category></category>
 	</software>
 	<software name="redalarm">
+		<category></category>
 	</software>
 	<software name="sdgundam">
+		<category></category>
 	</software>
 	<software name="spaceinv">
+		<category></category>
 	</software>
 	<software name="spacepin">
+		<category></category>
 	</software>
 	<software name="ssquash">
+		<category></category>
 	</software>
 	<software name="telerobo">
+		<category></category>
 	</software>
 	<software name="tobidase">
+		<category></category>
 	</software>
 	<software name="vbowling">
+		<category></category>
 	</software>
 	<software name="vfishing">
+		<category></category>
 	</software>
 	<software name="vforce">
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="vlab">
+		<category></category>
 	</software>
 	<software name="vleague">
+		<category></category>
 	</software>
 	<software name="vtetris">
+		<category></category>
 	</software>
 	<software name="wariolnd">
+		<category></category>
 	</software>
 	<software name="waterwld">
+		<category></category>
 	</software>
 </softwarelist>
