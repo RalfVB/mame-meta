@@ -32,6 +32,7 @@
 	</software>
 	<software name="armedf">
 		<category>Shooter / Flying Vertical</category>
+		<port>armedf</port>
 	</software>
 	<software name="arttool">
 		<category></category>
@@ -45,6 +46,7 @@
 	</software>
 	<software name="ballistx">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="baribari">
 		<category></category>
@@ -500,9 +502,11 @@
 	</software>
 	<software name="mrheli">		
 		<category>Shooter / Flying Horizontal</category>
+		<port>mrheli</port>
 	</software>	
 	<software name="blodwolf">
 		<category></category>
+		<port>bldwolf</port>
 	</software>
 	<software name="naxopen">
 		<category></category>
@@ -536,6 +540,7 @@
 	</software>
 	<software name="tnzs">
 		<category></category>
+		<port>tnzs</port>
 	</software>
 	<software name="nhktaidr">
 		<category></category>
@@ -548,6 +553,7 @@
 	</software>
 	<software name="ninjawar">
 		<category></category>
+		<port>ninjaw</port>
 	</software>
 	<software name="oboccha">
 		<category></category>
@@ -557,24 +563,29 @@
 	</software>
 	<software name="opwolf">
 		<category></category>
+		<port>opwolf</port>
 	</software>
 	<software name="ordyne">
 		<category>Shooter / Flying Horizontal</category>
+		<port>ordyne</port>
 	</software>
 	<software name="outlive">
 		<category></category>
 	</software>
 	<software name="outrun">
 		<category></category>
+		<port>outrun</port>
 	</software>
 	<software name="override">
 		<category></category>
 	</software>
 	<software name="p47">
 		<category>Shooter / Flying Horizontal</category>
+		<port>p47j</port>
 	</software>
 	<software name="pacland">
 		<category></category>
+		<port>pacland</port>
 	</software>
 	<software name="pachikun">
 		<category></category>
@@ -587,6 +598,7 @@
 	</software>
 	<software name="parodius">
 		<category>Shooter / Flying Horizontal</category>
+		<port>parodiusj</port>	
 	</software>
 	<software name="pcdenj">
 		<category>Shooter / Flying Horizontal</category>
@@ -596,9 +608,11 @@
 	</software>
 	<software name="pcgenj2">
 		<category></category>
+		<prequel>pce:pcgenj</prequel>
 	</software>
 	<software name="pcgenj3">
 		<category></category>
+		<prequel>pce:pcgenj2</prequel>
 	</software>
 	<software name="pcgenj3t">
 		<category></category>
@@ -611,6 +625,7 @@
 	</software>
 	<software name="pdrift">
 		<category></category>
+		<port>pdrift</port>
 	</software>
 	<software name="power11">
 		<category></category>
@@ -646,10 +661,10 @@
 		<category></category>
 	</software>
 	<software name="ptennis">
-		<category></category>
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="ptennwc">
-		<category></category>
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="proyak91">
 		<category></category>
@@ -671,22 +686,26 @@
 	</software>
 	<software name="rtypep1">		
 		<category>Shooter / Flying Horizontal</category>
+		<port>rtype</port>
 	</software>
 	<software name="rtypep2">
 		<category>Shooter / Flying Horizontal</category>
+		<port>rtype</port>
 	</software>
 	<software name="rabiolep">
 		<category>Shooter / Flying Horizontal</category>
+		<port>rabiolep</port>
 	</software>
 	<software name="racindam">
 		<category></category>
 	</software>
 	<software name="raiden">
 		<category>Shooter / Flying Vertical</category>
+		<port>raiden</port>
 	</software>
 	<software name="rastan2">
 		<category></category>
-		<port></port>
+		<port>rastsag2</port>
 	</software>
 	<software name="rockon">
 		<category>Shooter / Flying Horizontal</category>
@@ -702,7 +721,7 @@
 	</software>
 	<software name="salamand">
 		<category>Shooter / Flying Horizontal</category>
-		<port></port>
+		<port>salamand</port>
 	</software>
 	<software name="sekigaha">
 		<category></category>
@@ -728,6 +747,7 @@
 	</software>
 	<software name="sidearms">
 		<category>Shooter / Flying Horizontal</category>
+		<port>sidearmsj</port>
 	</software>
 	<software name="silentd">
 		<category></category>
@@ -752,6 +772,7 @@
 	</software>
 	<software name="sharrier">
 		<category></category>
+		<port>sharrier</port>
 	</software>
 	<software name="spaceinv">
 		<category></category>
@@ -767,12 +788,14 @@
 	</software>
 	<software name="splatth">
 		<category></category>
+		<port>splatterj</port>
 	</software>
 	<software name="stratego">
 		<category></category>
 	</software>
 	<software name="sf2ce">		
 		<category>Fighter / Versus</category>
+		<port>sf2ce</port>
 	</software>
 	<software name="stripf2">
 		<category>Fighter / Versus</category>
@@ -817,6 +840,7 @@
 	</software>
 	<software name="sdragon">
 		<category></category>
+		<port>stdragon</port>
 	</software>
 	<software name="terracr2">
 		<category>Shooter / Flying Vertical</category>
@@ -874,6 +898,7 @@
 	</software>
 	<software name="vigilant">
 		<category></category>
+		<port>vigilant</port>
 	</software>
 	<software name="violents">
 		<category>Shooter / Flying Horizontal</category>
