@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<softwarelist name="vboy">
+	<software name="3dtetris">
+	</software>
+	<software name="boundh">
+	</software>
+	<software name="galactic">
+	</software>
+	<software name="golf">
+	</software>
+	<software name="innsmout">
+	</software>
+	<software name="jackbros">
+	</software>
+	<software name="mariocla">
+	</software>
+	<software name="marioten">
+	</software>
+	<software name="nesterfb">
+	</software>
+	<software name="nikochan">
+	</software>
+	<software name="panicbom">
+	</software>
+	<software name="redalarm">
+	</software>
+	<software name="sdgundam">
+	</software>
+	<software name="spaceinv">
+	</software>
+	<software name="spacepin">
+	</software>
+	<software name="ssquash">
+	</software>
+	<software name="telerobo">
+	</software>
+	<software name="tobidase">
+	</software>
+	<software name="vbowling">
+	</software>
+	<software name="vfishing">
+	</software>
+	<software name="vforce">
+	</software>
+	<software name="vlab">
+	</software>
+	<software name="vleague">
+	</software>
+	<software name="vtetris">
+	</software>
+	<software name="wariolnd">
+	</software>
+	<software name="waterwld">
+	</software>
+</softwarelist>
