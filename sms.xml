@@ -176,7 +176,7 @@
 		<category></category>
 	</software>
 	<software name="blackblt">
-		<category></category>
+		<category>Fighter / 2D</category>
 	</software>
 	<software name="bladeag">		
 		<category>Shooter / Flying Vertical</category>
@@ -189,6 +189,7 @@
 	</software>
 	<software name="bnzabros">
 		<category></category>
+		<port>bnzabros</port>
 	</software>
 	<software name="bonkers">
 		<category></category>
@@ -209,6 +210,7 @@
 		<category></category>
 	</software>
 	<software name="bublbobl">
+		<category>Platform / Run Jump</category>
 		<port>bublbobl</port>
 	</software>
 	<software name="buggyrun">
@@ -225,6 +227,7 @@
 	</software>
 	<software name="captsilv">
 		<category></category>
+		<port>csilver</port>
 	</software>
 	<software name="carmnwld">
 		<category></category>
@@ -253,12 +256,15 @@
 	</software>
 	<software name="choplift">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="chuckrck">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="chukrck2">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="cloudmst">
 		<category></category>
@@ -268,7 +274,7 @@
 		<category></category>
 	</software>
 	<software name="columns">
-		<category></category>
+		<category>Puzzle / Drop</category>
 		<port>columns</port>
 	</software>
 	<software name="comicbak">
@@ -307,12 +313,14 @@
 	</software>
 	<software name="deadang">
 		<category></category>
+		<port>deadang</port>
 	</software>
 	<software name="deepduck">
 		<category></category>
 	</software>
 	<software name="desert">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="dicktr">
 		<category></category>
@@ -343,11 +351,14 @@
 	</software>
 	<software name="dstrike">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="dynduke">
 		<category></category>
+		<port>dynduke</port>
 	</software>
 	<software name="ddux">
+		<category></category>
 		<port>ddux</port>
 	</software>
 	<software name="dhead">
@@ -375,7 +386,7 @@
 		<category></category>
 	</software>
 	<software name="eswatc">
-		<category></category>
+		<category>Platform / Shooter Scrolling</category>
 		<port>eswat</port>
 	</software>
 	<software name="excdizzy">
@@ -464,7 +475,7 @@
 		<port>gauntlet</port>
 	</software>
 	<software name="goldnaxe">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 		<port>goldnaxe</port>
 	</software>
 	<software name="gaxewarr">
@@ -984,10 +995,10 @@
 		<category></category>
 	</software>
 	<software name="sor">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 	</software>
 	<software name="sor2">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 	</software>
 	<software name="spacegun">
 		<category></category>
@@ -1036,6 +1047,7 @@
 	</software>
 	<software name="strider2">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="submarin">
 		<category></category>
