@@ -81,12 +81,14 @@
 	<software name="cdbattle">
 	</software>
 	<software name="cddenjin">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="chrally">
 	</software>
 	<software name="chiki">
 	</software>
 	<software name="choaniki">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="cobra">
 	</software>
@@ -109,6 +111,7 @@
 	<software name="cyber808">
 	</software>
 	<software name="daisenpu">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="daisenr2">
 	</software>
@@ -135,6 +138,7 @@
 	<software name="dokyusei">
 	</software>
 	<software name="downld2">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="downtown">
 	</software>
@@ -203,12 +207,14 @@
 	<software name="garousp">
 	</software>
 	<software name="gatethun">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="genocide">
 	</software>
 	<software name="auleria">
 	</software>
 	<software name="sapphire">
+		<category>Shooter / Flying Verticall</category>
 	</software>
 	<software name="gogobird">
 	</software>
@@ -219,6 +225,7 @@
 	<software name="gotzendi">
 	</software>
 	<software name="gradius2">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="gsmikami">
 	</software>
@@ -229,6 +236,7 @@
 	<software name="hawkf123">
 	</software>
 	<software name="hellfire">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="highgrnd">
 	</software>
@@ -245,12 +253,14 @@
 	<software name="hyakumon">
 	</software>
 	<software name="hyperdyn">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="hyperwar">
 	</software>
 	<software name="iganin">
 	</software>
 	<software name="imagef2">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="inouemam">
 	</software>
@@ -327,6 +337,7 @@
 	<software name="lordwars">
 	</software>
 	<software name="macr2036">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="macrosls">
 	</software>
@@ -401,6 +412,7 @@
 	<software name="neonectr">
 	</software>
 	<software name="nexzr">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="nkhokuon">
 	</software>
@@ -485,6 +497,7 @@
 	<software name="quiztono">
 	</software>
 	<software name="rtype">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="rbisland">
 	</software>
@@ -495,8 +508,10 @@
 	<software name="ranmator">
 	</software>
 	<software name="rayxan2">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="rayxan3">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="redalert">
 	</software>
@@ -537,6 +552,7 @@
 	<software name="sangoku3">
 	</software>
 	<software name="spriggan">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="monbit">
 	</software>
@@ -599,26 +615,31 @@
 	<software name="spaceinv">
 	</software>
 	<software name="spriggn2">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="starbrkr">
 	</software>
 	<software name="starmobi">
 	</software>
 	<software name="starparo">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="startody">
 	</software>
 	<software name="startod2">
 	</software>
 	<software name="steamhea">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="strider">
 	</software>
 	<software name="sugoroku">
 	</software>
 	<software name="summer92">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="summer93">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="superalb">
 	</software>
@@ -627,12 +648,15 @@
 	<software name="supdaisn">
 	</software>
 	<software name="sdarius">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="sdarius2">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="supermjt">
 	</software>
 	<software name="sraiden">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="srmp23">
 	</software>
@@ -727,6 +751,7 @@
 	<software name="carmnwld">
 	</software>
 	<software name="windthun">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="wizard12">
 	</software>
@@ -777,6 +802,7 @@
 	<software name="cosmfnt2">
 	</software>
 	<software name="cotton">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="dslaylh">
 	</software>
@@ -795,6 +821,7 @@
 	<software name="fzone2">
 	</software>
 	<software name="forgottn">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="godzilla">
 	</software>
@@ -815,6 +842,7 @@
 	<software name="lordrsun">
 	</software>
 	<software name="lordthun">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="magdino">
 	</software>
