@@ -7,6 +7,7 @@
 	<software name="aiii">
 	</software>
 	<software name="avgeo">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="advquiz">
 	</software>
@@ -23,6 +24,7 @@
 	<software name="alkiba">
 	</software>
 	<software name="asuka120">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="auroraq">
 	</software>
@@ -203,8 +205,10 @@
 	<software name="genchohi">
 	</software>
 	<software name="garou2">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="garousp">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="gatethun">
 		<category>Shooter / Flying Horizontal</category>
