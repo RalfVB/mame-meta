@@ -74,7 +74,8 @@
 		<category></category>
 	</software>
 	<software name="ddragon">
-		<category></category>
+		<category>Fighter / 2.5D</category>
+		<port>ddragonw</port>
 	</software>
 	<software name="dracula">
 		<category></category>
@@ -83,7 +84,7 @@
 		<category></category>
 	</software>
 	<software name="eurosocc">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="eyebehol">
 		<category></category>
@@ -109,7 +110,7 @@
 		<port>harddriv</port>
 	</software>
 	<software name="hockey">
-		<category>Sports /Ice Hockey</category>
+		<category>Sports / Ice Hockey</category>
 	</software>
 	<software name="hydra">
 		<category></category>
@@ -233,6 +234,7 @@
 	</software>
 	<software name="beast">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="shanghai">
 		<category></category>
@@ -246,18 +248,21 @@
 	</software>
 	<software name="superoff">
 		<category></category>
+		<port>offroad</port>
 	</software>
 	<software name="supskwek">
 		<category></category>
 	</software>
 	<software name="switchb2">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="slimew">
 		<category></category>
 	</software>
 	<software name="toki">
 		<category></category>
+		<port>toki</port>
 	</software>
 	<software name="tcyberbl">
 		<category></category>
@@ -272,7 +277,7 @@
 		<category></category>
 	</software>
 	<software name="wcsoccer">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="xenophob">
 		<category></category>
