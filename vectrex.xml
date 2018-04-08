@@ -1,73 +1,108 @@
 <?xml version="1.0"?>
 <softwarelist name="vectrex">
 	<software name="3dminest">
+		<category></category>
 	</software>
 	<software name="animactn">
+		<category></category>
 	</software>
 	<software name="armora">
+		<category></category>
 	</software>
 	<software name="artmastr">
+		<category></category>
 	</software>
 	<software name="bedlam">
+		<category></category>
 	</software>
 	<software name="berzerk">
+		<category></category>
 	</software>
 	<software name="blitz">
+		<category></category>
 	</software>
 	<software name="cleanswp">
+		<category></category>
 	</software>
 	<software name="cchasm">
+		<category></category>
 	</software>
 	<software name="ccoaster">
+		<category></category>
 	</software>
 	<software name="darktowr">
+		<category></category>
 	</software>
 	<software name="enginean">
+		<category></category>
 	</software>
 	<software name="fnarzod">
+		<category></category>
 	</software>
 	<software name="headsup">
+		<category></category>
 	</software>
 	<software name="hyprchas">
+		<category></category>
 	</software>
 	<software name="mailplan">
+		<category></category>
 	</software>
 	<software name="melody">
+		<category></category>
 	</software>
 	<software name="minestrm">
+		<category></category>
 	</software>
 	<software name="narrowes">
+		<category></category>
 	</software>
 	<software name="ptchduel">
+		<category></category>
 	</software>
 	<software name="polarres">
+		<category></category>
 	</software>
 	<software name="polepos">
+		<category></category>
 	</software>
 	<software name="ripoff">
+		<category></category>
 	</software>
 	<software name="rocksled">
+		<category></category>
 	</software>
 	<software name="scramble">
+		<category></category>
 	</software>
 	<software name="solarq">
+		<category></category>
 	</software>
 	<software name="spacewar">
+		<category></category>
 	</software>
 	<software name="spike">
+		<category></category>
 	</software>
 	<software name="spinball">
+		<category></category>
 	</software>
 	<software name="starcas">
+		<category></category>
 	</software>
 	<software name="startrek">
+		<category></category>
 	</software>
 	<software name="starhawk">
+		<category></category>
 	</software>
 	<software name="testrev4">
+		<category></category>
 	</software>
 	<software name="tourfrnc">
+		<category></category>
 	</software>
 	<software name="webwarp">
+		<category></category>
 	</software>
 </softwarelist>
