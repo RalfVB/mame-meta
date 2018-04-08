@@ -1,0 +1,769 @@
+<?xml version="1.0"?>
+<softwarelist name="gamegear">
+	<software name="5in1fun">
+	</software>
+	<software name="aaharima">
+	</software>
+	<software name="addfam">
+	</software>
+	<software name="advbatmr">
+	</software>
+	<software name="aerialas">
+	</software>
+	<software name="aladdin">
+	</software>
+	<software name="alexkidd">
+	</software>
+	<software name="alien3">
+	</software>
+	<software name="aliensyn">
+	</software>
+	<software name="agassi">
+	</software>
+	<software name="arcadecl">
+	</software>
+	<software name="archrivl">
+	</software>
+	<software name="arena">
+	</software>
+	<software name="ariel">
+	</software>
+	<software name="astergre">
+	</software>
+	<software name="astermis">
+	</software>
+	<software name="axbattlr">
+	</software>
+	<software name="smgp2">
+	</software>
+	<software name="bakubaku">
+	</software>
+	<software name="barbiesm">
+	</software>
+	<software name="bartman">
+	</software>
+	<software name="batmanf">
+	</software>
+	<software name="batmanrn">
+	</software>
+	<software name="batterup">
+	</software>
+	<software name="bship">
+	</software>
+	<software name="btoads">
+	</software>
+	<software name="beavis">
+	</software>
+	<software name="berens">
+	</software>
+	<software name="berlin">
+	</software>
+	<software name="sailorms">
+	</software>
+	<software name="bonkers">
+	</software>
+	<software name="dracula">
+	</software>
+	<software name="bublbobl">
+	</software>
+	<software name="bugsbun">
+	</software>
+	<software name="bam">
+	</software>
+	<software name="busterb">
+	</software>
+	<software name="busterf">
+	</software>
+	<software name="caesars">
+	</software>
+	<software name="captaven">
+	</software>
+	<software name="carlicen">
+	</software>
+	<software name="casinofn">
+	</software>
+	<software name="castlill">
+	</software>
+	<software name="cavedude">
+	</software>
+	<software name="chakan">
+	</software>
+	<software name="champhck">
+	</software>
+	<software name="chessmst">
+	</software>
+	<software name="chicago">
+	</software>
+	<software name="choplft3">
+	</software>
+	<software name="chuckrck">
+	</software>
+	<software name="chukrck2">
+	</software>
+	<software name="cj">
+	</software>
+	<software name="cliffh">
+	</software>
+	<software name="clutchit">
+	</software>
+	<software name="cocakid">
+	</software>
+	<software name="columns">
+	</software>
+	<software name="coolspot">
+	</software>
+	<software name="cosmic">
+	</software>
+	<software name="crayon">
+	</software>
+	<software name="crazyfac">
+	</software>
+	<software name="crystalw">
+	</software>
+	<software name="cutthr">
+	</software>
+	<software name="daffy">
+	</software>
+	<software name="drsc">
+	</software>
+	<software name="deepduck">
+	</software>
+	<software name="defoasis">
+	</software>
+	<software name="desert">
+	</software>
+	<software name="dstrike">
+	</software>
+	<software name="devilish">
+	</software>
+	<software name="donaldmw">
+	</software>
+	<software name="doraemon">
+	</software>
+	<software name="ddragon">
+	</software>
+	<software name="drrobotn">
+	</software>
+	<software name="drfrankn">
+	</software>
+	<software name="dragon">
+	</software>
+	<software name="dcrystal">
+	</software>
+	<software name="dropzone">
+	</software>
+	<software name="dunkkids">
+	</software>
+	<software name="dhead">
+	</software>
+	<software name="ejim">
+	</software>
+	<software name="ecco">
+	</software>
+	<software name="ecco2">
+	</software>
+	<software name="ernieeg">
+	</software>
+	<software name="eternleg">
+	</software>
+	<software name="evander">
+	</software>
+	<software name="excdizzy">
+	</software>
+	<software name="f15se">
+	</software>
+	<software name="f1">
+	</software>
+	<software name="f1wce">
+	</software>
+	<software name="faceball">
+	</software>
+	<software name="factoryp">
+	</software>
+	<software name="fantdizz">
+	</software>
+	<software name="fantzone">
+	</software>
+	<software name="fatfursp">
+	</software>
+	<software name="fifa">
+	</software>
+	<software name="fifa96">
+	</software>
+	<software name="foreman">
+	</software>
+	<software name="bighurt">
+	</software>
+	<software name="fray">
+	</software>
+	<software name="fredcoup">
+	</software>
+	<software name="frogger">
+	</software>
+	<software name="slamdunk">
+	</software>
+	<software name="gloc">
+	</software>
+	<software name="galaga2">
+	</software>
+	<software name="gamble">
+	</software>
+	<software name="gambler">
+	</software>
+	<software name="garfield">
+	</software>
+	<software name="gearstah">
+	</software>
+	<software name="gearwork">
+	</software>
+	<software name="georgeko">
+	</software>
+	<software name="ggaleste">
+	</software>
+	<software name="ggdora">
+	</software>
+	<software name="ggport">
+	</software>
+	<software name="ggport1">
+	</software>
+	<software name="shinobi">
+	</software>
+	<software name="godzilla">
+	</software>
+	<software name="gprider">
+	</software>
+	<software name="greendog">
+	</software>
+	<software name="griffin">
+	</software>
+	<software name="gunstar">
+	</software>
+	<software name="halleyw">
+	</software>
+	<software name="headbust">
+	</software>
+	<software name="heavyw">
+	</software>
+	<software name="homea">
+	</software>
+	<software name="ddanpei">
+	</software>
+	<software name="hook">
+	</software>
+	<software name="hurrican">
+	</software>
+	<software name="hyokkohj">
+	</software>
+	<software name="hypyak92">
+	</software>
+	<software name="ichirgg">
+	</software>
+	<software name="crashdum">
+	</software>
+	<software name="hulk">
+	</software>
+	<software name="indycrus">
+	</software>
+	<software name="ironman">
+	</software>
+	<software name="itchy">
+	</software>
+	<software name="jleagu94">
+	</software>
+	<software name="jleague">
+	</software>
+	<software name="jb007">
+	</software>
+	<software name="jpond3">
+	</software>
+	<software name="robocod">
+	</software>
+	<software name="jangpun2">
+	</software>
+	<software name="jeopardy">
+	</software>
+	<software name="jeopards">
+	</software>
+	<software name="joemont">
+	</software>
+	<software name="striderr">
+	</software>
+	<software name="jdredd">
+	</software>
+	<software name="junction">
+	</software>
+	<software name="jungle">
+	</software>
+	<software name="jstrike">
+	</software>
+	<software name="jpark">
+	</software>
+	<software name="sainttal">
+	</software>
+	<software name="kawasaki">
+	</software>
+	<software name="yaiba">
+	</software>
+	<software name="kineticc">
+	</software>
+	<software name="zenki">
+	</software>
+	<software name="klax">
+	</software>
+	<software name="krustyfh">
+	</software>
+	<software name="kunichan">
+	</software>
+	<software name="kunichn2">
+	</software>
+	<software name="landill">
+	</software>
+	<software name="lastact">
+	</software>
+	<software name="legndill">
+	</software>
+	<software name="lemmings">
+	</software>
+	<software name="lemming2">
+	</software>
+	<software name="lionking">
+	</software>
+	<software name="lostwrld">
+	</software>
+	<software name="luckydim">
+	</software>
+	<software name="lunar">
+	</software>
+	<software name="madden95">
+	</software>
+	<software name="madden96">
+	</software>
+	<software name="madouma">
+	</software>
+	<software name="madoum1">
+	</software>
+	<software name="madoum2">
+	</software>
+	<software name="madoum3">
+	</software>
+	<software name="rayearth">
+	</software>
+	<software name="rayeart2">
+	</software>
+	<software name="magiclpp">
+	</software>
+	<software name="mtaruru">
+	</software>
+	<software name="majors">
+	</software>
+	<software name="mappy">
+	</software>
+	<software name="marble">
+	</software>
+	<software name="marko">
+	</software>
+	<software name="mastdark">
+	</software>
+	<software name="megaman">
+	</software>
+	<software name="lastbibl">
+	</software>
+	<software name="lastbibs">
+	</software>
+	<software name="mickmack">
+	</software>
+	<software name="mickeyuc">
+	</software>
+	<software name="micromac">
+	</software>
+	<software name="micromc2">
+	</software>
+	<software name="mmpr">
+	</software>
+	<software name="mmprtm">
+	</software>
+	<software name="mlbpa">
+	</software>
+	<software name="moldoran">
+	</software>
+	<software name="monstwar">
+	</software>
+	<software name="mk">
+	</software>
+	<software name="mk2">
+	</software>
+	<software name="mk3">
+	</software>
+	<software name="mspacman">
+	</software>
+	<software name="nazopuyo">
+	</software>
+	<software name="nazpuyo2">
+	</software>
+	<software name="nazpyoar">
+	</software>
+	<software name="nbaact">
+	</software>
+	<software name="nbajam">
+	</software>
+	<software name="nbajamte">
+	</software>
+	<software name="nekodais">
+	</software>
+	<software name="nfl95">
+	</software>
+	<software name="nflqb96">
+	</software>
+	<software name="nflqb">
+	</software>
+	<software name="nhlas">
+	</software>
+	<software name="nhl">
+	</software>
+	<software name="ngaiden">
+	</software>
+	<software name="ninku">
+	</software>
+	<software name="ninku2">
+	</software>
+	<software name="ninkug">
+	</software>
+	<software name="offtwall">
+	</software>
+	<software name="olympgld">
+	</software>
+	<software name="ottifant">
+	</software>
+	<software name="outrun">
+	</software>
+	<software name="outrneur">
+	</software>
+	<software name="pacattak">
+	</software>
+	<software name="pacintim">
+	</software>
+	<software name="pacman">
+	</software>
+	<software name="panzer">
+	</software>
+	<software name="paperboy">
+	</software>
+	<software name="paperbo2">
+	</software>
+	<software name="pengo">
+	</software>
+	<software name="inudais">
+	</software>
+	<software name="sampras">
+	</software>
+	<software name="pga96">
+	</software>
+	<software name="pgatour">
+	</software>
+	<software name="pgatourt">
+	</software>
+	<software name="pgatour2">
+	</software>
+	<software name="pstaradv">
+	</software>
+	<software name="pstargdn">
+	</software>
+	<software name="phantom">
+	</software>
+	<software name="pbdreams">
+	</software>
+	<software name="pocketj">
+	</software>
+	<software name="pokerfbj">
+	</software>
+	<software name="pokerfg">
+	</software>
+	<software name="pokerfp">
+	</software>
+	<software name="pokerfs">
+	</software>
+	<software name="popbreak">
+	</software>
+	<software name="popeye">
+	</software>
+	<software name="pdrive">
+	</software>
+	<software name="pstrike2">
+	</software>
+	<software name="predatr2">
+	</software>
+	<software name="primal">
+	</software>
+	<software name="ppersia">
+	</software>
+	<software name="proyak91">
+	</software>
+	<software name="proyak94">
+	</software>
+	<software name="proyakgg">
+	</software>
+	<software name="psychicw">
+	</software>
+	<software name="puttputt">
+	</software>
+	<software name="puyopuyo">
+	</software>
+	<software name="puyopuy2">
+	</software>
+	<software name="tantr">
+	</software>
+	<software name="shavnyak">
+	</software>
+	<software name="quizgear">
+	</software>
+	<software name="rbibb94">
+	</software>
+	<software name="rcgp">
+	</software>
+	<software name="rastan">
+	</software>
+	<software name="riddick">
+	</software>
+	<software name="riserobo">
+	</software>
+	<software name="ristar">
+	</software>
+	<software name="roadrash">
+	</software>
+	<software name="robocop3">
+	</software>
+	<software name="roboterm">
+	</software>
+	<software name="royalstn">
+	</software>
+	<software name="sslucifr">
+	</software>
+	<software name="samsho">
+	</software>
+	<software name="scratchg">
+	</software>
+	<software name="sdgundam">
+	</software>
+	<software name="sega4in1">
+	</software>
+	<software name="sensible">
+	</software>
+	<software name="shangh2">
+	</software>
+	<software name="shaqfu">
+	</software>
+	<software name="shikinjo">
+	</software>
+	<software name="shinfrcg">
+	</software>
+	<software name="shinfrgf">
+	</software>
+	<software name="shinfrc2">
+	</software>
+	<software name="shinobi2">
+	</software>
+	<software name="sidepock">
+	</software>
+	<software name="bartvssm">
+	</software>
+	<software name="bartvswd">
+	</software>
+	<software name="slider">
+	</software>
+	<software name="smurfs">
+	</software>
+	<software name="smurfs2">
+	</software>
+	<software name="solitair">
+	</software>
+	<software name="solitarp">
+	</software>
+	<software name="sonicbls">
+	</software>
+	<software name="sonicc">
+	</software>
+	<software name="sonicdr">
+	</software>
+	<software name="sonicdr2">
+	</software>
+	<software name="soniclab">
+	</software>
+	<software name="sspin">
+	</software>
+	<software name="sonic">
+	</software>
+	<software name="sonic2">
+	</software>
+	<software name="sonictri">
+	</software>
+	<software name="sokoban">
+	</software>
+	<software name="sharrier">
+	</software>
+	<software name="cheese">
+	</software>
+	<software name="spidermn">
+	</software>
+	<software name="spidxmen">
+	</software>
+	<software name="spidking">
+	</software>
+	<software name="spirou">
+	</software>
+	<software name="sportill">
+	</software>
+	<software name="sporttrv">
+	</software>
+	<software name="sprtrvce">
+	</software>
+	<software name="stng">
+	</software>
+	<software name="stgbeyn">
+	</software>
+	<software name="starwars">
+	</software>
+	<software name="stargate">
+	</software>
+	<software name="shero">
+	</software>
+	<software name="sor">
+	</software>
+	<software name="sor2">
+	</software>
+	<software name="striker">
+	</software>
+	<software name="sbtank">
+	</software>
+	<software name="supercol">
+	</software>
+	<software name="supgolf">
+	</software>
+	<software name="skickoff">
+	</software>
+	<software name="smomo3">
+	</software>
+	<software name="smgp">
+	</software>
+	<software name="superoff">
+	</software>
+	<software name="suprjedi">
+	</software>
+	<software name="smashtv">
+	</software>
+	<software name="ssinv">
+	</software>
+	<software name="stetris">
+	</software>
+	<software name="superman">
+	</software>
+	<software name="surfninj">
+	</software>
+	<software name="sylvan">
+	</software>
+	<software name="t2ag">
+	</software>
+	<software name="tailsadv">
+	</software>
+	<software name="tailskyp">
+	</software>
+	<software name="taisnmj">
+	</software>
+	<software name="taisnmj2">
+	</software>
+	<software name="daisenrg">
+	</software>
+	<software name="chasehq">
+	</software>
+	<software name="talespin">
+	</software>
+	<software name="tamalymp">
+	</software>
+	<software name="tarot">
+	</software>
+	<software name="tarzan">
+	</software>
+	<software name="proyaktl">
+	</software>
+	<software name="tazmars">
+	</software>
+	<software name="tazmania">
+	</software>
+	<software name="tempojr">
+	</software>
+	<software name="tengenwc">
+	</software>
+	<software name="term2">
+	</software>
+	<software name="termntr">
+	</software>
+	<software name="tesserae">
+	</software>
+	<software name="tintin">
+	</software>
+	<software name="tomjermv">
+	</software>
+	<software name="torarete">
+	</software>
+	<software name="truelies">
+	</software>
+	<software name="ultsoccr">
+	</software>
+	<software name="ustrike">
+	</software>
+	<software name="vfa">
+	</software>
+	<software name="vrtroop">
+	</software>
+	<software name="wagyan">
+	</software>
+	<software name="wheelfor">
+	</software>
+	<software name="wildsnak">
+	</software>
+	<software name="wimbled">
+	</software>
+	<software name="wintol">
+	</software>
+	<software name="wizard">
+	</software>
+	<software name="wolfchld">
+	</software>
+	<software name="wboy">
+	</software>
+	<software name="wboydtrp">
+	</software>
+	<software name="woodypop">
+	</software>
+	<software name="wclead">
+	</software>
+	<software name="wcup94">
+	</software>
+	<software name="wderby">
+	</software>
+	<software name="wsb95">
+	</software>
+	<software name="wsb">
+	</software>
+	<software name="wwfraw">
+	</software>
+	<software name="wwfsteel">
+	</software>
+	<software name="xmen">
+	</software>
+	<software name="xmengl">
+	</software>
+	<software name="xmenmojo">
+	</software>
+	<software name="yogibear">
+	</software>
+	<software name="yuyu">
+	</software>
+	<software name="yuyu2">
+	</software>
+	<software name="zangear">
+	</software>
+	<software name="zool">
+	</software>
+	<software name="zoop">
+	</software>
+</softwarelist>
