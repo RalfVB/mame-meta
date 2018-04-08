@@ -170,12 +170,14 @@
 	</software>
 	<software name="daisenpu">
 		<category>Shooter / Flying Vertical</category>
+		<port>daisenpu</port>
 	</software>
 	<software name="daisenr2">
 		<category></category>
 	</software>
 	<software name="ddragon2">
-		<category></category>
+		<category>Fighter / 2.5D</category>
+		<port>ddragon2</port>
 	</software>	
 	<software name="deja">
 		<category></category>
@@ -212,6 +214,7 @@
 	</software>
 	<software name="downld2">
 		<category>Shooter / Flying Horizontal</category>
+		<prequel>pce:download</prequel>
 	</software>
 	<software name="downtown">
 		<category></category>
@@ -284,6 +287,7 @@
 	</software>
 	<software name="gground">
 		<category></category>
+		<port>gground</port>
 	</software>
 	<software name="galaxyde">
 		<category></category>
@@ -308,9 +312,11 @@
 	</software>
 	<software name="garou2">
 		<category>Fighter / Versus</category>
+		<port>fatfury2</port>
 	</software>
 	<software name="garousp">
 		<category>Fighter / Versus</category>
+		<port>fatfursp</port>
 	</software>
 	<software name="gatethun">
 		<category>Shooter / Flying Horizontal</category>
@@ -331,7 +337,7 @@
 		<category></category>
 	</software>
 	<software name="goldnaxe">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 		<port>goldnaxe</port>
 	</software>
 	<software name="gotzendi">
@@ -390,6 +396,7 @@
 	</software>
 	<software name="imagef2">
 		<category>Shooter / Flying Vertical</category>
+		<prequel>pce:imagefgt</prequel>
 	</software>
 	<software name="inouemam">
 		<category></category>
@@ -423,6 +430,7 @@
 	</software>
 	<software name="juuouki">
 		<category></category>
+		<port>altbeastj</port>
 	</software>
 	<software name="kagami">
 		<category></category>
@@ -489,6 +497,7 @@
 	</software>
 	<software name="lemmings">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="linda3">
 		<category></category>
