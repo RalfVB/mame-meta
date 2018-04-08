@@ -9,11 +9,15 @@
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="battlace">
+		<category>Shooter / Flying 1st Person</category>
+		<players>1</players>
 	</software>
 	<software name="daimakai">
 		<category>Platform / Fighter Scrolling</category>
 		<port>daimakai</port>
+		<players>1</players>
 	</software>
 	<software name="granzort">
+		<category>Platform / Fighter Scrolling</category>
 	</software>
 </softwarelist>
