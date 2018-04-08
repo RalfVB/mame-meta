@@ -1,12 +1,17 @@
 <?xml version="1.0"?>
 <softwarelist name="sgx">
 	<software name="1941">
+		<category>Shooter / Flying Vertical</category>
+		<port>1941</port>
 	</software>
 	<software name="aldynes">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="battlace">
 	</software>
 	<software name="daimakai">
+		<category>Platform / Fighter Scrolling</category>
+		<port>daimakai</port>
 	</software>
 	<software name="granzort">
 	</software>
