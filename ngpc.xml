@@ -1,157 +1,236 @@
 <?xml version="1.0"?>
 <softwarelist name="ngpc">
 	<software name="bakumats">
+		<category></category>
 	</software>
 	<software name="bikkuri">
+		<category></category>
 	</software>
 	<software name="biomotor">
+		<category></category>
 	</software>
 	<software name="bstarsc">
+		<category></category>
 	</software>
 	<software name="coolboar">
+		<category></category>
 	</software>
 	<software name="coolcool">
+		<category></category>
 	</software>
 	<software name="cotton">
+		<category></category>
 	</software>
 	<software name="crushrol">
+		<category></category>
 	</software>
 	<software name="darkarms">
+		<category></category>
 	</software>
 	<software name="deltawrp">
+		<category></category>
 	</software>
 	<software name="dendego2">
+		<category></category>
 	</software>
 	<software name="divealrm">
+		<category></category>
 	</software>
 	<software name="divealrb">
+		<category></category>
 	</software>
 	<software name="dokodemo">
+		<category></category>
 	</software>
 	<software name="dynaslug">
+		<category></category>
 	</software>
 	<software name="evolutn">
+		<category></category>
 	</software>
 	<software name="faselei">
+		<category></category>
 	</software>
 	<software name="fatfury">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="ganbaren">
+		<category></category>
 	</software>
 	<software name="infinity">
+		<category></category>
 	</software>
 	<software name="kikousei">
+		<category></category>
 	</software>
 	<software name="kofpara">
+		<category></category>
 	</software>
 	<software name="kofr2">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="koikoi">
+		<category></category>
 	</software>
 	<software name="lastblad">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="magdrop">
+		<category></category>
 	</software>
 	<software name="memories">
+		<category></category>
 	</software>
 	<software name="mezase">
+		<category></category>
 	</software>
 	<software name="mizuki">
+		<category></category>
 	</software>
 	<software name="mslug1st">
+		<category></category>
 	</software>
 	<software name="mslug2nd">
+		<category></category>
 	</software>
 	<software name="neo21">
+		<category></category>
 	</software>
 	<software name="neobacca">
+		<category></category>
 	</software>
 	<software name="neocherc">
+		<category></category>
 	</software>
 	<software name="neocuppl">
+		<category></category>
 	</software>
 	<software name="neoderby">
+		<category></category>
 	</software>
 	<software name="neodrag">
+		<category></category>
 	</software>
 	<software name="neomystr">
+		<category></category>
 	</software>
 	<software name="neoproyk">
+		<category></category>
 	</software>
 	<software name="neoturfm">
+		<category></category>
 	</software>
 	<software name="nigeronp">
+		<category></category>
 	</software>
 	<software name="oekakip">
+		<category></category>
 	</software>
 	<software name="ogrebatl">
+		<category></category>
 	</software>
 	<software name="pachinko">
+		<category></category>
 	</software>
 	<software name="pacman">
+		<category></category>
+		<port>pacman</port>
 	</software>
 	<software name="pbobble">
+		<category></category>
+		<port>pbobble</port>
 	</software>
 	<software name="picturep">
+		<category></category>
 	</software>
 	<software name="poktlove">
+		<category></category>
 	</software>
 	<software name="pockrev">
+		<category></category>
 	</software>
 	<software name="pockrevj">
+		<category></category>
 	</software>
 	<software name="prtymail">
+		<category></category>
 	</software>
 	<software name="pslotazt">
+		<category></category>
 	</software>
 	<software name="pslotdk2">
+		<category></category>
 	</software>
 	<software name="pslotds2">
+		<category></category>
 	</software>
 	<software name="pslotecp">
+		<category></category>
 	</software>
 	<software name="pslothan">
+		<category></category>
 	</software>
 	<software name="pslotooh">
+		<category></category>
 	</software>
 	<software name="pslotpc2">
+		<category></category>
 	</software>
 	<software name="pslotwrd">
+		<category></category>
 	</software>
 	<software name="ptennisc">
+		<category></category>
 	</software>
 	<software name="puyopop">
+		<category></category>
 	</software>
 	<software name="puzzlink">
+		<category></category>
 	</software>
 	<software name="puzzlnk2">
+		<category></category>
 	</software>
 	<software name="rockmanb">
+		<category></category>
 	</software>
 	<software name="samsho2">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="shanghai">
+		<category></category>
 	</software>
 	<software name="shougic">
+		<category></category>
 	</software>
 	<software name="snkgals">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="sonic">
+		<category></category>
 	</software>
 	<software name="hanadojo">
+		<category></category>
 	</software>
 	<software name="srmp">
+		<category></category>
 	</software>
 	<software name="svc">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="svccard2">
+		<category></category>
 	</software>
 	<software name="svccardc">
+		<category></category>
 	</software>
 	<software name="svccards">
+		<category></category>
 	</software>
 	<software name="wrestmad">
+		<category></category>
 	</software>
 	<software name="ppaa01">
+		<category></category>
 	</software>
 </softwarelist>
