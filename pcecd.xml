@@ -1155,121 +1155,173 @@
 		<category></category>
 	</software>
 	<software name="zerowing">
-		<category></category>
+		<category>Shooter / Flying Horizontal</category>
 	</software>
-
 	<software name="beyshadg">
 		<category></category>
 	</software>
 	<software name="bonk3">
+		<category></category>
 	</software>
 	<software name="bbros">
+		<category></category>
 	</software>
 	<software name="campcali">
+		<category></category>
 	</software>
 	<software name="cosmfnt2">
+		<category></category>
 	</software>
-	<software name="cotton">
+	<software name="cotton">		
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="dslaylh">
+		<category></category>
 	</software>
 	<software name="dungexp2">
+		<category></category>
 	</software>
 	<software name="dmaster">
+		<category></category>
 	</software>
 	<software name="exile">
+		<category></category>
 	</software>
 	<software name="exile2">
+		<category></category>
 	</software>
 	<software name="fssoldr">
+		<category></category>
 	</software>
 	<software name="fstreet">
+		<category></category>
+		<port></port>
 	</software>
 	<software name="fzone2">
+		<category></category>
+		<port></port>
 	</software>
 	<software name="forgottn">
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="godzilla">
+		<category></category>
 	</software>
 	<software name="jbharold">
+		<category></category>
 	</software>
 	<software name="implode">
+		<category></category>
 	</software>
 	<software name="itcame">
+		<category></category>
 	</software>
 	<software name="nicklaus">
+		<category></category>
 	</software>
 	<software name="madden">
+		<category></category>
 	</software>
 	<software name="lstalert">
+		<category></category>
 	</software>
 	<software name="loom">
+		<category></category>
 	</software>
 	<software name="lordrsun">
+		<category></category>
 	</software>
-	<software name="lordthun">
+	<software name="lordthun">		
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="magdino">
+		<category></category>
 	</software>
 	<software name="mightmg3">
+		<category></category>
 	</software>
 	<software name="mlair">
+		<category></category>
 	</software>
 	<software name="ppersia">
+		<category></category>
 	</software>
 	<software name="riotzone">
+		<category></category>
 	</software>
 	<software name="beast">
+		<category></category>
 	</software>
 	<software name="shapesh">
+		<category></category>
 	</software>
 	<software name="holmes">
+		<category></category>
 	</software>
 	<software name="holmes2">
+		<category></category>
 	</software>
 	<software name="simearth">
+		<category></category>
 	</software>
 	<software name="splashl">
+		<category></category>
 	</software>
 	<software name="superair">
+		<category></category>
 	</software>
 	<software name="terrafor">
+		<category></category>
 	</software>
 	<software name="dynhero">
+		<category></category>
 	</software>
 	<software name="valis2">
+		<category></category>
 	</software>
 	<software name="valis3">
+		<category></category>
 	</software>
 	<software name="vasteel">
+		<category></category>
 	</software>
 	<software name="ys12">
+		<category></category>
 	</software>
 	<software name="ys3">
+		<category></category>
 	</software>
 	<software name="meteorbl">
+		<category></category>
 	</software>
 	<software name="bikini">
+		<category></category>
 	</software>
 	<software name="hawaiiu">
+		<category></category>
 	</software>
 	<software name="hawiian">
+		<category></category>
 	</software>
 	<software name="hilegfan">
+		<category></category>
 	</software>
 	<software name="avtanjo">
+		<category></category>
 	</software>
 	<software name="idolpai">
+		<category></category>
 	</software>
 	<software name="pachinko">
+		<category></category>
 	</software>
 	<software name="hanafuda">
+		<category></category>
 	</software>
 	<software name="mahjong">
+		<category></category>
 	</software>
 	<software name="pachislt">
+		<category></category>
 	</software>
 </softwarelist>
