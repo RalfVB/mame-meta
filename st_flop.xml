@@ -167,10 +167,14 @@
 	<software name="dizzydic">
 	</software>
 	<software name="ddragon">
+		<port>ddragon</port>
 	</software>
 	<software name="ddragon2">
+		<port>ddragon2</port>
+		<prequel>st_flop:ddragon</prequel>
 	</software>
 	<software name="dspirit">
+		<port>dspirit</port>
 	</software>
 	<software name="drakkhen">
 	</software>
@@ -215,6 +219,7 @@
 	<software name="futwars">
 	</software>
 	<software name="gforce2">
+		<port>gforce2</port>
 	</software>
 	<software name="gameovr2">
 	</software>
@@ -227,8 +232,11 @@
 	<software name="gflchafb">
 	</software>
 	<software name="gng">
+		<port>gng</port>
 	</software>
 	<software name="ghouls">
+		<port>ghouls</port>
+		<prequel>st_flop:gng</prequel>
 	</software>
 	<software name="gomoku">
 	</software>
@@ -289,6 +297,7 @@
 	<software name="jpond">
 	</software>
 	<software name="robocod">
+		<prequel>st_flop:jpond</prequel>
 	</software>
 	<software name="jeweldrk">
 	</software>
@@ -455,8 +464,10 @@
 	<software name="sinbad">
 	</software>
 	<software name="sharrier">
+		<port>sharrier</port>
 	</software>
 	<software name="sharrie2">
+		<prequel>st_flop:sharrier</prequel>
 	</software>
 	<software name="sphericl">
 	</software>
@@ -487,6 +498,7 @@
 	<software name="stormstr">
 	</software>
 	<software name="strider">
+		<port>strider</port>
 	</software>
 	<software name="strike">
 	</software>
@@ -545,6 +557,7 @@
 	<software name="turbogt">
 	</software>
 	<software name="toutrun">
+		<port>toutrun</port>
 	</software>
 	<software name="turricn2">
 	</software>
