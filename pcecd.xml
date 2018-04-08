@@ -812,7 +812,8 @@
 		<category></category>
 	</software>
 	<software name="ryukoken">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>aof</port>
 	</software>
 	<software name="sangoku">
 		<category></category>
@@ -1119,7 +1120,8 @@
 		<category></category>
 	</software>
 	<software name="wh2">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>wh2</port>
 	</software>
 	<software name="wrestang">
 		<category></category>
@@ -1245,6 +1247,7 @@
 	</software>
 	<software name="ppersia">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="riotzone">
 		<category></category>
