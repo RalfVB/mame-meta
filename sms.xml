@@ -121,10 +121,12 @@
 	<software name="blackblt">
 	</software>
 	<software name="bladeag">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="blockhol">
 	</software>
 	<software name="bombraid">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="bnzabros">
 	</software>
@@ -141,6 +143,7 @@
 	<software name="newbogl2">
 	</software>
 	<software name="bublbobl">
+		<port>bublbobl</port>
 	</software>
 	<software name="buggyrun">
 	</software>
@@ -163,6 +166,7 @@
 	<software name="champeur">
 	</software>
 	<software name="chasehq">
+		<port>chasehq</port>
 	</software>
 	<software name="cheese">
 	</software>
