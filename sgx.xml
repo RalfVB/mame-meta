@@ -2,11 +2,12 @@
 <softwarelist name="sgx">
 	<software name="1941">
 		<category>Shooter / Flying Vertical</category>
-		<port>1941</port>
+		<port>1941j</port>
 		<players>2</players>
 	</software>
 	<software name="aldynes">
 		<category>Shooter / Flying Horizontal</category>
+		<players>1</players>
 	</software>
 	<software name="battlace">
 		<category>Shooter / Flying 1st Person</category>
@@ -19,5 +20,6 @@
 	</software>
 	<software name="granzort">
 		<category>Platform / Fighter Scrolling</category>
+		<players>2P Alt</players>
 	</software>
 </softwarelist>
