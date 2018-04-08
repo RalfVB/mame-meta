@@ -1,127 +1,189 @@
 <?xml version="1.0"?>
 <softwarelist name="cd32">
 	<software name="alfred">
+		<category></category>
 	</software>
 	<software name="abreed3d">
+		<category></category>
 	</software>
 	<software name="abreedta">
+		<category></category>
 	</software>
 	<software name="abseqwak">
+		<category></category>
 	</software>
 	<software name="akira">
+		<category></category>
 	</software>
 	<software name="arabian">
+		<category></category>
 	</software>
 	<software name="banshee">
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="basejump">
+		<category></category>
 	</software>
 	<software name="beavers">
+		<category></category>
 	</software>
 	<software name="benefact">
+		<category></category>
 	</software>
 	<software name="big6diz">
+		<category></category>
 	</software>
 	<software name="blkviper">
+		<category></category>
 	</software>
 	<software name="btoads">
+		<category></category>
 	</software>
 	<software name="bubba">
+		<category></category>
 	</software>
 	<software name="bubblesq">
+		<category></category>
 	</software>
 	<software name="bumpburn">
+		<category></category>
 	</software>
 	<software name="chaoseng">
+		<category></category>
 	</software>
 	<software name="chuckrck">
+		<category></category>
 	</software>
 	<software name="chukrck2">
+		<category></category>
 	</software>
 	<software name="clockwsr">
+		<category></category>
 	</software>
 	<software name="darkseed">
+		<category></category>
 	</software>
 	<software name="deepcore">
+		<category></category>
 	</software>
 	<software name="dgen">
+		<category></category>
 	</software>
 	<software name="diggoscr">
+		<category></category>
 	</software>
 	<software name="disphero">
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="donk">
+		<category></category>
 	</software>
 	<software name="dstone">
+		<category></category>
 	</software>
 	<software name="dstreets">
+		<category></category>
 	</software>
 	<software name="emerald">
+		<category></category>
 	</software>
 	<software name="fireforc">
+		<category></category>
 	</software>
 	<software name="fireice">
+		<category></category>
 	</software>
 	<software name="flink">
+		<category></category>
 	</software>
 	<software name="flyhard">
+		<category></category>
 	</software>
 	<software name="frontier">
+		<category></category>
 	</software>
 	<software name="global">
+		<category></category>
 	</software>
 	<software name="gloom">
+		<category></category>
 	</software>
 	<software name="guardian">
+		<category></category>
 	</software>
 	<software name="ikplus">
+		<category></category>
 	</software>
 	<software name="kidchaos">
+		<category></category>
 	</software>
 	<software name="libcap2">
+		<category></category>
 	</software>
 	<software name="lotus">
+		<category></category>
 	</software>
 	<software name="marvin">
+		<category></category>
 	</software>
 	<software name="morph">
+		<category></category>
 	</software>
 	<software name="myth">
+		<category></category>
 	</software>
 	<software name="naughty">
+		<category></category>
 	</software>
 	<software name="okillunc">
+		<category></category>
 	</software>
 	<software name="pballfnt">
+		<category>Pinball</category>
 	</software>
 	<software name="pballill">
+		<category>Pinball</category>
 	</software>
 	<software name="projxubb">
+		<category></category>
 	</software>
 	<software name="quik">
+		<category></category>
 	</software>
 	<software name="riserobo">
+		<category></category>
 	</software>
 	<software name="roadkill">
+		<category></category>
 	</software>
 	<software name="seekdest">
+		<category></category>
 	</software>
 	<software name="shadfght">
+		<category></category>
 	</software>
 	<software name="shaolin">
+		<category></category>
 	</software>
 	<software name="skelkrew">
+		<category></category>
 	</software>
 	<software name="sskid">
+		<category></category>
 	</software>
 	<software name="sstardst">
+		<category></category>
 	</software>
 	<software name="suprputt">
+		<category></category>
 	</software>
 	<software name="totcarn">
+		<category></category>
 	</software>
 	<software name="vital">
+		<category></category>
 	</software>
 	<software name="wormstdc">
+		<category></category>
 	</software>
 </softwarelist>
