@@ -1,53 +1,78 @@
 <?xml version="1.0"?>
 <softwarelist name="gx4000">
 	<software name="barb2">
+		<category></category>
 	</software>
 	<software name="batman">
+		<category></category>
 	</software>
 	<software name="brubber">
+		<category></category>
 	</software>
 	<software name="coptr271">
+		<category></category>
 	</software>
 	<software name="crzycrs2">
+		<category></category>
 	</software>
 	<software name="dicktr">
+		<category></category>
 	</software>
 	<software name="firefor2">
+		<category></category>
 	</software>
 	<software name="klax">
+		<category></category>
 	</software>
 	<software name="mystical">
+		<category></category>
 	</software>
 	<software name="navyseal">
+		<category></category>
 	</software>
 	<software name="noexit">
+		<category></category>
 	</software>
 	<software name="othunder">
+		<category></category>
 	</software>
 	<software name="pang">
+		<category></category>
 	</software>
 	<software name="panzakb">
+		<category></category>
 	</software>
 	<software name="pinmagic">
+		<category></category>
 	</software>
 	<software name="plotting">
+		<category></category>
 	</software>
 	<software name="protennt">
+		<category></category>
 	</software>
 	<software name="robocop2">
+		<category></category>
 	</software>
 	<software name="skeetsh">
+		<category></category>
 	</software>
 	<software name="switchbl">
+		<category></category>
 	</software>
 	<software name="tennisc2">
+		<category></category>
 	</software>
 	<software name="enforcer">
+		<category></category>
 	</software>
 	<software name="tintin">
+		<category></category>
 	</software>
 	<software name="wildstrt">
+		<category></category>
 	</software>
 	<software name="worldspt">
+		<category></category>
 	</software>
 </softwarelist>
