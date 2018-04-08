@@ -1,18 +1,24 @@
 <?xml version="1.0"?>
 <softwarelist name="32x">
 	<software name="doom">
+		<port></port>
 	</software>
 	<software name="motox">
+		<category></category>
 	</software>
 	<software name="sharrier">
+		<port>sharrier</port>
 	</software>
 	<software name="swa">
+		<port>swa</port>
 	</software>
 	<software name="toughman">
 	</software>
 	<software name="vrdx">
+		<port>vr</port>
 	</software>
 	<software name="aburner">
+		<port>aburner2</port>
 	</software>
 	<software name="spidwebf">
 	</software>
@@ -23,28 +29,36 @@
 	<software name="brutal">
 	</software>
 	<software name="cosmicc">
+		<category></category>
 	</software>
 	<software name="darxide">
+		<category></category>
 	</software>
 	<software name="fifa96">
 	</software>
 	<software name="36great">
 	</software>
 	<software name="chaotix">
+		<category></category>
 	</software>
 	<software name="kolibri">
+		<category></category>
 	</software>
 	<software name="metalhd">
+		<category></category>
 	</software>
 	<software name="mk2">
+		<port>mk2</port>
 	</software>
 	<software name="nbajamte">
+		<port>nbajamte</port>
 	</software>
 	<software name="nflqb">
 	</software>
 	<software name="pitfall">
 	</software>
 	<software name="primal">
+		<port>primrage</port>
 	</software>
 	<software name="rbibb95">
 	</software>
@@ -61,6 +75,7 @@
 	<software name="tempo">
 	</software>
 	<software name="vf">
+		<port>vf</port>
 	</software>
 	<software name="vham">
 	</software>
@@ -68,9 +83,10 @@
 	</software>
 	<software name="wwfraw">
 	</software>
-	<software name="wwfag" supported="no">
+	<software name="wwfag">
+		<port>wwfmania</port>
 	</software>
-	<software name="xmen" supported="no">
+	<software name="xmen">
 	</software>
 	<software name="zaxxon2k">
 	</software>
