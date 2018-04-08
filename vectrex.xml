@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<softwarelist name="vectrex">
+	<software name="3dminest">
+	</software>
+	<software name="animactn">
+	</software>
+	<software name="armora">
+	</software>
+	<software name="artmastr">
+	</software>
+	<software name="bedlam">
+	</software>
+	<software name="berzerk">
+	</software>
+	<software name="blitz">
+	</software>
+	<software name="cleanswp">
+	</software>
+	<software name="cchasm">
+	</software>
+	<software name="ccoaster">
+	</software>
+	<software name="darktowr">
+	</software>
+	<software name="enginean">
+	</software>
+	<software name="fnarzod">
+	</software>
+	<software name="headsup">
+	</software>
+	<software name="hyprchas">
+	</software>
+	<software name="mailplan">
+	</software>
+	<software name="melody">
+	</software>
+	<software name="minestrm">
+	</software>
+	<software name="narrowes">
+	</software>
+	<software name="ptchduel">
+	</software>
+	<software name="polarres">
+	</software>
+	<software name="polepos">
+	</software>
+	<software name="ripoff">
+	</software>
+	<software name="rocksled">
+	</software>
+	<software name="scramble">
+	</software>
+	<software name="solarq">
+	</software>
+	<software name="spacewar">
+	</software>
+	<software name="spike">
+	</software>
+	<software name="spinball">
+	</software>
+	<software name="starcas">
+	</software>
+	<software name="startrek">
+	</software>
+	<software name="starhawk">
+	</software>
+	<software name="testrev4">
+	</software>
+	<software name="tourfrnc">
+	</software>
+	<software name="webwarp">
+	</software>
+</softwarelist>
