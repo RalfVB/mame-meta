@@ -31,13 +31,14 @@
 		<category></category>
 	</software>
 	<software name="brutalsp">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="bubsy">
 		<category></category>
 	</software>
 	<software name="cfodder">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="chekflag">
 		<category></category>
@@ -53,12 +54,13 @@
 	</software>
 	<software name="doom">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="ddragon5">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="dragon">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="dinodude">
 		<category></category>
@@ -67,7 +69,7 @@
 		<category></category>
 	</software>
 	<software name="fforlife">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="flashb">
 		<category></category>
@@ -91,7 +93,7 @@
 		<category></category>
 	</software>
 	<software name="kasumi">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="memtrack">
 		<category></category>
@@ -101,6 +103,7 @@
 	</software>
 	<software name="nbajamte">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="phase0">
 		<category></category>
@@ -149,18 +152,21 @@
 	</software>
 	<software name="syndicat">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="tempst2k">
 		<category></category>
 	</software>
 	<software name="themeprk">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="ttoonadv">
 		<category></category>
 	</software>
 	<software name="totalcar">
 		<category></category>
+		<port>totcarn</port>
 	</software>
 	<software name="towers2">
 		<category></category>
@@ -172,7 +178,7 @@
 		<category></category>
 	</software>
 	<software name="ultravor">
-		<category></category>
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="valdiser">
 		<category></category>
@@ -195,14 +201,17 @@
 	</software>
 	<software name="worms">
 		<category></category>
+		<port></port>
 	</software>	
 	<software name="zero5">
 		<category></category>
 	</software>
 	<software name="zool2">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="zoop">
 		<category></category>
+		<port></port>
 	</software>
 </softwarelist>
