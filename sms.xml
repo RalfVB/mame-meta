@@ -44,16 +44,19 @@
 	<software name="alien3">
 	</software>
 	<software name="altbeast">
+		<port>altbeast</port>
 	</software>
 	<software name="ameribb">
 	</software>
 	<software name="ameripf">
 	</software>
 	<software name="agassi">
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="arcadesh">
 	</software>
 	<software name="argosnj">
+		<port>rygarj</port>
 	</software>
 	<software name="ariel">
 	</software>
@@ -66,6 +69,7 @@
 	<software name="astermis">
 	</software>
 	<software name="astorm">
+		<port>astorm</port>
 	</software>
 	<software name="astropit">
 	</software>
@@ -73,6 +77,7 @@
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="aliensyn">
+		<port>aliensyn</port>
 	</software>
 	<software name="smgp2">
 	</software>
@@ -164,8 +169,10 @@
 	<software name="castlill">
 	</software>
 	<software name="champeur">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="chasehq">
+		<category>Driving / Race (chase view)</category>
 		<port>chasehq</port>
 	</software>
 	<software name="cheese">
@@ -179,10 +186,12 @@
 	<software name="chukrck2">
 	</software>
 	<software name="cloudmst">
+		<port>chukatai</port>
 	</software>
 	<software name="colors">
 	</software>
 	<software name="columns">
+		<port>columns</port>
 	</software>
 	<software name="comicbak">
 	</software>
@@ -205,6 +214,8 @@
 	<software name="danan">
 	</software>
 	<software name="ddragon">
+		<category>Fighter / 2.5D</category>
+		<port>ddragon</ddragon>
 	</software>
 	<software name="deadang">
 	</software>
@@ -235,6 +246,7 @@
 	<software name="dynduke">
 	</software>
 	<software name="ddux">
+		<port>ddux</port>
 	</software>
 	<software name="dhead">
 	</software>
@@ -253,6 +265,7 @@
 	<software name="enduroj">
 	</software>
 	<software name="eswatc">
+		<port>eswat</port>
 	</software>
 	<software name="excdizzy">
 	</software>
@@ -267,14 +280,17 @@
 	<software name="fantdizz">
 	</software>
 	<software name="fantzon2">
+		<port>fantzn2</port>
 	</software>
 	<software name="fantzone">
+		<port>fantzone</port>
 	</software>
 	<software name="fantzonm">
 	</software>
 	<software name="ferias">
 	</software>
 	<software name="fifa">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="fireforg">
 	</software>
@@ -287,12 +303,16 @@
 	<software name="flint">
 	</software>
 	<software name="georgeko">
+		<category>Sports / Boxing</category>
 	</software>
 	<software name="forgottn">
+		<category>Shooter / Flying Horizontal</category>
+		<port>forgottn</port>
 	</software>
 	<software name="gaegujan">
 	</software>
 	<software name="gground">
+		<port>gground</port>
 	</software>
 	<software name="galactpr">
 	</software>
@@ -309,6 +329,7 @@
 	<software name="gauntlet">
 	</software>
 	<software name="goldnaxe">
+		<port>goldnaxe</port>
 	</software>
 	<software name="gaxewarr">
 	</software>
@@ -317,10 +338,12 @@
 	<software name="ghosth">
 	</software>
 	<software name="ghouls">
+		<port>ghouls</port>
 	</software>
 	<software name="globald">
 	</software>
 	<software name="gloc">
+		<port>gloc</port>
 	</software>
 	<software name="golfaman">
 	</software>
@@ -347,6 +370,8 @@
 	<software name="gunsmoke">
 	</software>
 	<software name="hangon">
+		<category>Driving / Race (chase view) Bike</category>
+		<port>hangon</port>
 	</software>
 	<software name="hangonaw">
 	</software>
