@@ -1,181 +1,290 @@
 <?xml version="1.0"?>
 <softwarelist name="lynx">
+	<software name="alpineg">
+		<category></category>
+	</software>	
 	<software name="apb">
+		<category></category>
 	</software>
 	<software name="avsp">
+		<category></category>
 	</software>
 	<software name="awesomeg">
+		<category></category>
 	</software>
 	<software name="bbheroes">
+		<category></category>
 	</software>
 	<software name="bsktbrwl">
+		<category></category>
 	</software>
 	<software name="batmanrn">
+		<category></category>
 	</software>
 	<software name="bwheels">
+		<category></category>
 	</software>
 	<software name="bzone2k">
+		<category></category>
 	</software>
 	<software name="billted">
+		<category></category>
 	</software>
 	<software name="blockout">
+		<category></category>
 	</software>
 	<software name="bluelght">
+		<category></category>
 	</software>
 	<software name="bubtroub">
+		<category></category>
 	</software>
 	<software name="calgames">
+		<category></category>
 	</software>
 	<software name="centiped">
+		<category></category>
+		<port>centiped</port>
 	</software>
 	<software name="chekflag">
+		<category></category>
 	</software>
 	<software name="chipchal">
+		<category></category>
 	</software>
 	<software name="cmines2">
-	</software>
-	<software name="daemongt">
-	</software>
-	<software name="dstrike">
-	</software>
-	<software name="dinolymp">
-	</software>
-	<software name="dirtylar">
-	</software>
-	<software name="ddragon">
-	</software>
-	<software name="dracula">
-	</software>
-	<software name="electroc">
-	</software>
-	<software name="eurosocc">
-	</software>
-	<software name="eyebehol">
-	</software>
-	<software name="fatbobby">
-	</software>
-	<software name="fidelity">
-	</software>
-	<software name="gatezend">
-	</software>
-	<software name="gauntlet">
-	</software>
-	<software name="gordo106">
-	</software>
-	<software name="harddriv">
-	</software>
-	<software name="hockey">
-	</software>
-	<software name="hydra">
-	</software>
-	<software name="ishido">
-	</software>
-	<software name="connors">
-	</software>
-	<software name="joust">
-	</software>
-	<software name="klax">
-	</software>
-	<software name="krazyace">
-	</software>
-	<software name="kungfood">
-	</software>
-	<software name="lemmings">
-	</software>
-	<software name="lexis">
-	</software>
-	<software name="loopz">
-	</software>
-	<software name="lcasino">
-	</software>
-	<software name="malibu">
-	</software>
-	<software name="marlboro">
-	</software>
-	<software name="megapak">
-	</software>
-	<software name="mspacman">
-	</software>
-	<software name="nflfoot">
-	</software>
-	<software name="ngaiden">
-	</software>
-	<software name="ngaiden3">
-	</software>
-	<software name="pacland">
-	</software>
-	<software name="paperboy">
-	</software>
-	<software name="pinballj">
-	</software>
-	<software name="pitfight">
-	</software>
-	<software name="ponx">
-	</software>
-	<software name="powfactr">
-	</software>
-	<software name="qix">
-	</software>
-	<software name="raiden">
-	</software>
-	<software name="rampage">
-	</software>
-	<software name="rampart">
-	</software>
-	<software name="roadriot">
-	</software>
-	<software name="roadblst">
-	</software>
-	<software name="robosqua">
-	</software>
-	<software name="robotron">
-	</software>
-	<software name="rygar">
-	</software>
-	<software name="stunrun">
-	</software>
-	<software name="scrapdog">
-	</software>
-	<software name="beast">
-	</software>
-	<software name="shanghai">
-	</software>
-	<software name="steeltal">
-	</software>
-	<software name="supaster">
-	</software>
-	<software name="superoff">
-	</software>
-	<software name="supskwek">
-	</software>
-	<software name="switchb2">
-	</software>
-	<software name="slimew">
-	</software>
-	<software name="toki">
-	</software>
-	<software name="tcyberbl">
-	</software>
-	<software name="turbosub">
-	</software>
-	<software name="viking">
-	</software>
-	<software name="warbirds">
-	</software>
-	<software name="wcsoccer">
-	</software>
-	<software name="xenophob">
-	</software>
-	<software name="xybots">
-	</software>
-	<software name="zarlor">
-	</software>
-	<software name="alpineg">
-	</software>
-	<software name="dragnet">
+		<category></category>
 	</software>
 	<software name="conquest">
+		<category></category>
+	</software>	
+	<software name="daemongt">
+		<category></category>
 	</software>
+	<software name="dragnet">
+		<category></category>
+	</software>	
+	<software name="dstrike">
+		<category></category>
+	</software>
+	<software name="dinolymp">
+		<category></category>
+	</software>
+	<software name="dirtylar">
+		<category></category>
+	</software>
+	<software name="ddragon">
+		<category></category>
+	</software>
+	<software name="dracula">
+		<category></category>
+	</software>
+	<software name="electroc">
+		<category></category>
+	</software>
+	<software name="eurosocc">
+		<category></category>
+	</software>
+	<software name="eyebehol">
+		<category></category>
+	</software>
+	<software name="fatbobby">
+		<category></category>
+	</software>
+	<software name="fidelity">
+		<category></category>
+	</software>
+	<software name="gatezend">
+		<category></category>
+	</software>
+	<software name="gauntlet">
+		<category></category>
+		<port>gauntlet</port>
+	</software>
+	<software name="gordo106">
+		<category></category>
+	</software>
+	<software name="harddriv">
+		<category></category>
+		<port>harddriv</port>
+	</software>
+	<software name="hockey">
+		<category>Sports /Ice Hockey</category>
+	</software>
+	<software name="hydra">
+		<category></category>
+	</software>
+	<software name="ishido">
+		<category></category>
+	</software>
+	<software name="connors">
+		<category>Sports / Tennis</category>
+	</software>
+	<software name="joust">
+		<category></category>
+		<port>joust</port>
+	</software>
+	<software name="klax">
+		<category></category>
+		<port>klax</port>
+	</software>
+	<software name="krazyace">
+		<category></category>
+	</software>
+	<software name="kungfood">
+		<category></category>
+	</software>
+	<software name="lemmings">
+		<category></category>
+	</software>
+	<software name="lexis">
+		<category></category>
+	</software>
+	<software name="loopz">
+		<category></category>
+	</software>
+	<software name="lcasino">
+		<category></category>
+	</software>
+	<software name="malibu">
+		<category></category>
+	</software>
+	<software name="marlboro">
+		<category></category>
+	</software>
+	<software name="megapak">
+		<category></category>
+	</software>
+	<software name="mspacman">
+		<category></category>
+		<port>mspacman</port>
+	</software>
+	<software name="nflfoot">
+		<category></category>
+	</software>
+	<software name="ngaiden">
+		<category></category>
+	</software>
+	<software name="ngaiden3">
+		<category></category>
+	</software>
+	<software name="pacland">
+		<category></category>
+		<port>pacland</port>
+	</software>
+	<software name="paperboy">
+		<category></category>
+		<port>paperboy</port>
+	</software>
+	<software name="pinballj">
+		<category>Pinball</category>
+	</software>
+	<software name="pitfight">
+		<category></category>
+		<port>pitfight</port>
+	</software>
+	<software name="ponx">
+		<category></category>
+	</software>
+	<software name="powfactr">
+		<category></category>
+	</software>
+	<software name="qix">
+		<category>Puzzle / Outline</category>
+		<port>qix</port>
+	</software>
+	<software name="raiden">
+		<category>Shooter / Flying Vertical</category>
+		<port>raiden</port>
+	</software>
+	<software name="rampage">
+		<category></category>
+		<port>rampage</port>
+	</software>
+	<software name="rampart">
+		<category></category>
+		<port>rampart</port>
+	</software>
+	<software name="roadriot">
+		<category>Driving / Race (chase view)</category>
+		<port>roadriot</port>
+	</software>
+	<software name="roadblst">
+		<category>Shooter / Driving (chase view)</category>
+		<port>roadblst</port>
+	</software>
+	<software name="robosqua">
+		<category></category>
+	</software>
+	<software name="robotron">
+		<category>Shooter / Field</category>
+		<port>robotron</port>
+	</software>
+	<software name="rygar">
+		<category>Platform / Fighter Scrolling</category>
+		<port>rygar</port>
+	</software>
+	<software name="stunrun">
+		<category>Shooter / Driving (chase view)</category>
+		<port>stunrun</port>
+	</software>
+	<software name="scrapdog">
+		<category></category>
+	</software>
+	<software name="beast">
+		<category></category>
+	</software>
+	<software name="shanghai">
+		<category></category>
+	</software>
+	<software name="steeltal">
+		<category>Shooter / Flying (chase view)</category>
+		<port>steeltal</port>
+	</software>
+	<software name="supaster">
+		<category></category>
+	</software>
+	<software name="superoff">
+		<category></category>
+	</software>
+	<software name="supskwek">
+		<category></category>
+	</software>
+	<software name="switchb2">
+		<category></category>
+	</software>
+	<software name="slimew">
+		<category></category>
+	</software>
+	<software name="toki">
+		<category></category>
+	</software>
+	<software name="tcyberbl">
+		<category></category>
+	</software>
+	<software name="turbosub">
+		<category></category>
+	</software>
+	<software name="viking">
+		<category></category>
+	</software>
+	<software name="warbirds">
+		<category></category>
+	</software>
+	<software name="wcsoccer">
+		<category></category>
+	</software>
+	<software name="xenophob">
+		<category></category>
+	</software>
+	<software name="xybots">
+		<category>Maze / Shooter Large</category>
+		<port>xybots</port>
+	</software>	
 	<software name="zaku">
+		<category></category>
 	</software>
+	<software name="zarlor">
+		<category></category>
+	</software>	
 </softwarelist>
