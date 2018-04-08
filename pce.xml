@@ -2,6 +2,7 @@
 <softwarelist name="pce">
 	<software name="1943kai">
 		<category>Shooter / Flying Vertical</category>
+		<port>1943kai</port>
 	</software>
 	<software name="21emon">
 		<category></category>
@@ -11,12 +12,14 @@
 	</software>
 	<software name="aeroblst">
 		<category>Shooter / Flying Horizontal</category>
+		<port>airbustrj</port>
 	</software>
 	<software name="aburner2">
 		<category></category>
+		<port>aburner2</port>
 	</software>
 	<software name="acrush">
-		<category></category>
+		<category>Pinball</category>
 	</software>
 	<software name="ankoku">
 		<category></category>
@@ -35,6 +38,7 @@
 	</software>
 	<software name="atomrobo">
 		<category>Shooter / Flying Horizontal</category>
+		<port>robokid</port>
 	</software>
 	<software name="avpoker">
 		<category></category>
@@ -115,7 +119,7 @@
 	</software>
 	<software name="bravoman">
 		<category></category>
-		<port></port>
+		<port>berabohm</port>
 	</software>
 	<software name="circusld">
 		<category></category>
@@ -124,7 +128,7 @@
 		<category></category>
 	</software>
 	<software name="columns">
-		<category></category>
+		<category>Puzzle / Drop</category>
 		<port>columns</port>
 	</software>
 	<software name="coryoon">
@@ -144,12 +148,14 @@
 	</software>
 	<software name="daisenpu">
 		<category>Shooter / Flying Vertical</category>
+		<port>daisenpu</port>
 	</software>
 	<software name="donaturl">
 		<category></category>
 	</software>
 	<software name="dariusa">
 		<category>Shooter / Flying Horizontal</category>
+		<port>darius</port>
 	</software>
 	<software name="dariusp">
 		<category>Shooter / Flying Horizontal</category>
@@ -162,9 +168,11 @@
 	</software>
 	<software name="twinbee">
 		<category>Shooter / Flying Vertical</category>
+		<port>detatwin</port>
 	</software>
 	<software name="devlcrsh">
 		<category>Pinball</category>
+		<prequel>pce:acrush</prequel>
 	</software>
 	<software name="diehard">
 		<category></category>
@@ -173,7 +181,8 @@
 		<category></category>
 	</software>
 	<software name="dondoko">
-		<category></category>
+		<category>Platform / Run Jump</category>
+		<port>dondokodj</port>
 	</software>
 	<software name="dorams">
 		<category></category>
@@ -192,9 +201,11 @@
 	</software>
 	<software name="dsaber">
 		<category>Shooter / Flying Vertical</category>
+		<port>dsaber</port>
 	</software>
 	<software name="dspirit">
 		<category>Shooter / Flying Vertical</category>
+		<port>dspirit</port>
 	</software>
 	<software name="droprock">
 		<category></category>
@@ -225,6 +236,7 @@
 	</software>
 	<software name="fantzone">
 		<category>Shooter / Flying Horizontal</category>
+		<port>fantzone</port>
 	</software>
 	<software name="fightrun">
 		<category></category>
@@ -254,10 +266,10 @@
 		<category></category>
 	</software>
 	<software name="fsoccr90">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="fsoccer">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="alice">
 		<category></category>
@@ -270,6 +282,7 @@
 	</software>
 	<software name="galaga88">
 		<category></category>
+		<port>galaga88</port>
 	</software>
 	<software name="ganbgolf">
 		<category></category>
@@ -288,12 +301,14 @@
 	</software>
 	<software name="chukatai">
 		<category>Shooter / Flying Horizontal</category>
+		<port>chukataij</port>
 	</software>
 	<software name="gomola">
 		<category></category>
 	</software>
 	<software name="gradius">
 		<category>Shooter / Flying Horizontal</category>
+		<port>gradius</port>
 	</software>
 	<software name="gunhed">
 		<category>Shooter / Flying Vertical</category>
@@ -315,6 +330,7 @@
 	</software>
 	<software name="hvyunit">
 		<category>Shooter / Flying Horizontal</category>
+		<port>hvyunit</port>
 	</software>
 	<software name="xserd">
 		<category></category>
@@ -330,12 +346,13 @@
 	</software>
 	<software name="imagefgt">
 		<category>Shooter / Flying Vertical</category>
+		<port>imgfightj</port>
 	</software>
 	<software name="jleag11">
 		<category></category>
 	</software>
 	<software name="nicklaus">
-		<category></category>
+		<category>Sports / Golf</category>
 	</software>
 	<software name="jchan">
 		<category></category>
@@ -348,6 +365,7 @@
 	</software>
 	<software name="juuouki">
 		<category></category>
+		<port>altbeastj</port>
 	</software>
 	<software name="shubibi">
 		<category></category>
@@ -366,12 +384,14 @@
 	</software>
 	<software name="kikikai">
 		<category></category>
+		<port>kikikai</port>
 	</software>
 	<software name="kingcasn">
 		<category></category>
 	</software>
 	<software name="klax">
 		<category></category>
+		<port>klax</port>
 	</software>
 	<software name="knightrs">
 		<category></category>
@@ -393,18 +413,21 @@
 	</software>
 	<software name="ktiger">
 		<category>Shooter / Flying Vertical</category>
+		<port>ktiger</port>
 	</software>
 	<software name="ladyswrd">
 		<category></category>
 	</software>
 	<software name="loht">
 		<category></category>
+		<port>loht</port>
 	</software>
 	<software name="ldrun">
 		<category></category>
 	</software>
 	<software name="marchen">
 		<category></category>
+		<port>mmaze</port>
 	</software>
 	<software name="magchase">		
 		<category>Shooter / Flying Horizontal</category>
