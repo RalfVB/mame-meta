@@ -1,27 +1,39 @@
 <?xml version="1.0"?>
 <softwarelist name="pcfx">
 	<software name="amateur">
+		<category></category>
 	</software>
 	<software name="angeliq">
+		<category></category>
 	</software>
 	<software name="batlheat">
+		<category></category>
 	</software>
 	<software name="cancandx">
+		<category></category>
 	</software>
 	<software name="carrot">
+		<category></category>
 	</software>
 	<software name="dknight4">
+		<category></category>
 	</software>
 	<software name="doukyuu2">
+		<category></category>
 	</software>
 	<software name="farland">
+		<category></category>
 	</software>
 	<software name="firewomn">
+		<category></category>
 	</software>
 	<software name="langriss">
+		<category></category>
 	</software>
 	<software name="megamip2">
+		<category></category>
 	</software>
 	<software name="sotsugy2">
+		<category></category>
 	</software>
 </softwarelist>
