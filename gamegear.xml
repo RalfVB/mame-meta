@@ -13,7 +13,7 @@
 		<category></category>
 	</software>
 	<software name="aerialas">
-		<category></category>
+		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="aladdin">
 		<category></category>
@@ -366,7 +366,7 @@
 		<port></port>
 	</software>
 	<software name="halleyw">
-		<category></category>
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="headbust">
 		<category></category>
