@@ -24,19 +24,16 @@
 	<software name="aichoan">
 		<category></category>
 	</software>
+	<software name="alkiba">
+		<category></category>
+	</software>	
 	<software name="alshark">
 		<category></category>
 	</software>	
-	<software name="avgeo">
-		<category>Fighter / Versus</category>
-	</software>
 	<software name="anesan">
 		<category></category>
 	</software>
 	<software name="angels2">
-		<category></category>
-	</software>
-	<software name="alkiba">
 		<category></category>
 	</software>
 	<software name="asuka120">
@@ -48,6 +45,9 @@
 	<software name="avenger">
 		<category>Shooter / Flying Vertical</category>
 	</software>
+	<software name="avgeo">
+		<category>Fighter / Versus</category>
+	</software>	
 	<software name="babel">
 		<category></category>
 	</software>
