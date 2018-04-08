@@ -13,16 +13,19 @@
 		<category></category>
 	</software>
 	<software name="aburner">
+		<category>Shooter / Flying (chase view)</category>
 		<port>aburner</port>
 	</software>
 	<software name="aceoface">
 		<category></category>
 	</software>
 	<software name="actionfg">
+		<category>Shooter / Misc. Vertical</category>
 		<port>afighter</port>
 	</software>
 	<software name="addfam">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="aerialas">
 		<category>Shooter / Flying Horizontal</category>
@@ -32,6 +35,7 @@
 	</software>
 	<software name="aladdin">
 		<category></category>
+		<port></port>
 	</software>
 	<software name="alexbmx">
 		<category></category>
@@ -40,13 +44,14 @@
 		<category></category>
 	</software>
 	<software name="alexkidd">
-		<category></category>
+		<category>Platform / Run Jump Scrolling</category>
 	</software>
 	<software name="alexkidd2">
-		<category></category>
+		<category>Platform / Run Jump Scrolling</category>
 	</software>
 	<software name="alexlost">
-		<category></category>
+		<category>Platform / Run Jump Scrolling</category>
+		<port>alexkidd</port>
 	</software>
 	<software name="alexshin">
 		<category></category>
@@ -77,7 +82,7 @@
 		<category></category>
 	</software>
 	<software name="argosnj">
-		<category></category>
+		<category>Platform / Fighter Scrolling</category>
 		<port>rygarj</port>
 	</software>
 	<software name="ariel">
@@ -96,7 +101,7 @@
 		<category></category>
 	</software>
 	<software name="astorm">
-		<category></category>
+		<category>Platform / Shooter Scrolling</category>
 		<port>astorm</port>
 	</software>
 	<software name="astropit">
