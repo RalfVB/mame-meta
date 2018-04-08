@@ -539,8 +539,10 @@
 	<software name="stratego">
 	</software>
 	<software name="sf2ce">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="stripf2">
+		<category>Fighter / Versus</category>
 	</software>
 	<software name="smcrush">
 	</software>
