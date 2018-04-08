@@ -1,172 +1,242 @@
 <?xml version="1.0"?>
 <softwarelist name="sms">
 	<software name="20em1">
+		<category></category>
 	</software>
 	<software name="3dragon">
+		<category></category>
 	</software>
 	<software name="4pak">
+		<category></category>
 	</software>
 	<software name="94swc">
+		<category></category>
 	</software>
 	<software name="aburner">
 		<port>aburner</port>
 	</software>
 	<software name="aceoface">
+		<category></category>
 	</software>
 	<software name="actionfg">
 		<port>afighter</port>
 	</software>
 	<software name="addfam">
+		<category></category>
 	</software>
 	<software name="aerialas">
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="airresc">
+		<category></category>
 	</software>
 	<software name="aladdin">
+		<category></category>
 	</software>
 	<software name="alexbmx">
+		<category></category>
 	</software>
 	<software name="alexhitw">
+		<category></category>
 	</software>
 	<software name="alexkidd">
+		<category></category>
 	</software>
 	<software name="alexkidd2">
+		<category></category>
 	</software>
 	<software name="alexlost">
+		<category></category>
 	</software>
 	<software name="alexshin">
+		<category></category>
 	</software>
 	<software name="alf">
+		<category></category>
 	</software>
 	<software name="alibaba">
+		<category></category>
 	</software>
 	<software name="alien3">
+		<category></category>
 	</software>
 	<software name="altbeast">
+		<category></category>
 		<port>altbeast</port>
 	</software>
 	<software name="ameribb">
+		<category></category>
 	</software>
 	<software name="ameripf">
+		<category></category>
 	</software>
 	<software name="agassi">
 		<category>Sports / Tennis</category>
 	</software>
 	<software name="arcadesh">
+		<category></category>
 	</software>
 	<software name="argosnj">
+		<category></category>
 		<port>rygarj</port>
 	</software>
 	<software name="ariel">
+		<category></category>
 	</software>
 	<software name="assaultc">
+		<category></category>
 	</software>
 	<software name="astergre">
+		<category></category>
 	</software>
 	<software name="asterix">
+		<category></category>
 	</software>
 	<software name="astermis">
+		<category></category>
 	</software>
 	<software name="astorm">
+		<category></category>
 		<port>astorm</port>
 	</software>
 	<software name="astropit">
+		<category></category>
 	</software>
 	<software name="astrow">
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="aliensyn">
+		<category></category>
 		<port>aliensyn</port>
 	</software>
 	<software name="smgp2">
+		<category></category>
 	</software>
 	<software name="aztecadv">
+		<category></category>
 	</software>
 	<software name="backtof2">
+		<category></category>
 	</software>
 	<software name="backtof3">
+		<category></category>
 	</software>
 	<software name="bakubaku">
+		<category></category>
 	</software>
 	<software name="bankp">
+		<category></category>
 	</software>
 	<software name="bartvssm">
+		<category></category>
 	</software>
 	<software name="bartvsw">
+		<category></category>
 	</software>
 	<software name="basketn">
+		<category></category>
 	</software>
 	<software name="batmanrn">
+		<category></category>
 	</software>
 	<software name="bmaniacs">
+		<category></category>
 	</software>
 	<software name="battleor">
+		<category></category>
 	</software>
 	<software name="beast">
+		<category></category>
 	</software>
 	<software name="hicom3a">
+		<category></category>
 	</software>
 	<software name="hicom3b">
+		<category></category>
 	</software>
 	<software name="hicom3c">
+		<category></category>
 	</software>
 	<software name="hicom3d">
+		<category></category>
 	</software>
 	<software name="hicom3e">
+		<category></category>
 	</software>
 	<software name="hicom3f">
+		<category></category>
 	</software>
 	<software name="hicom8a">
+		<category></category>
 	</software>
 	<software name="hicom8b">
+		<category></category>
 	</software>
 	<software name="hicom8c">
+		<category></category>
 	</software>
 	<software name="blackblt">
+		<category></category>
 	</software>
-	<software name="bladeag">
+	<software name="bladeag">		
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="blockhol">
+		<category></category>
 	</software>
 	<software name="bombraid">
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="bnzabros">
+		<category></category>
 	</software>
 	<software name="bonkers">
+		<category></category>
 	</software>
 	<software name="dracula">
+		<category></category>
 	</software>
 	<software name="bublbokc">
+		<category></category>
 	</software>
 	<software name="bublboky">
+		<category></category>
 	</software>
 	<software name="suprbubl">
+		<category></category>
 	</software>
 	<software name="newbogl2">
+		<category></category>
 	</software>
 	<software name="bublbobl">
 		<port>bublbobl</port>
 	</software>
 	<software name="buggyrun">
+		<category></category>
 	</software>
 	<software name="cso">
+		<category></category>
 	</software>
 	<software name="calgame2">
+		<category></category>
 	</software>
 	<software name="calgames">
+		<category></category>
 	</software>
 	<software name="captsilv">
+		<category></category>
 	</software>
 	<software name="carmnwld">
+		<category></category>
 	</software>
 	<software name="casino">
+		<category></category>
 	</software>
 	<software name="castelo">
+		<category></category>
 	</software>
 	<software name="castlill">
+		<category></category>
 	</software>
 	<software name="champeur">
 		<category>Sports / Soccer</category>
@@ -176,131 +246,187 @@
 		<port>chasehq</port>
 	</software>
 	<software name="cheese">
+		<category></category>
 	</software>
 	<software name="champhck">
+		<category></category>
 	</software>
 	<software name="choplift">
+		<category></category>
 	</software>
 	<software name="chuckrck">
+		<category></category>
 	</software>
 	<software name="chukrck2">
+		<category></category>
 	</software>
 	<software name="cloudmst">
+		<category></category>
 		<port>chukatai</port>
 	</software>
 	<software name="colors">
+		<category></category>
 	</software>
 	<software name="columns">
+		<category></category>
 		<port>columns</port>
 	</software>
 	<software name="comicbak">
+		<category></category>
 	</software>
 	<software name="coolspot">
+		<category></category>
 	</software>
 	<software name="cosmic">
+		<category></category>
 	</software>
 	<software name="cybers">
+		<category></category>
 	</software>
 	<software name="cybersp">
+		<category></category>
 	</software>
 	<software name="cyborgh">
+		<category></category>
 	</software>
 	<software name="cyborgz">
+		<category></category>
 	</software>
 	<software name="daffy">
+		<category></category>
 	</software>
 	<software name="dallye">
+		<category></category>
 	</software>
 	<software name="danan">
+		<category></category>
 	</software>
 	<software name="ddragon">
 		<category>Fighter / 2.5D</category>
 		<port>ddragon</ddragon>
 	</software>
 	<software name="deadang">
+		<category></category>
 	</software>
 	<software name="deepduck">
+		<category></category>
 	</software>
 	<software name="desert">
+		<category></category>
 	</software>
 	<software name="dicktr">
+		<category></category>
 	</software>
 	<software name="dinobash">
+		<category></category>
 	</software>
 	<software name="dinodool">
+		<category></category>
 	</software>
 	<software name="dokidoki">
+		<category></category>
 	</software>
 	<software name="doublhwk">
+		<category></category>
 	</software>
 	<software name="dragon">
+		<category></category>
 	</software>
 	<software name="dcrystal">
+		<category></category>
 	</software>
 	<software name="drhello">
+		<category></category>
 	</software>
 	<software name="drrobotn">
+		<category></category>
 	</software>
 	<software name="dstrike">
+		<category></category>
 	</software>
 	<software name="dynduke">
+		<category></category>
 	</software>
 	<software name="ddux">
 		<port>ddux</port>
 	</software>
 	<software name="dhead">
+		<category></category>
 	</software>
 	<software name="exainnov">
+		<category></category>
 	</software>
 	<software name="eagles5">
+		<category></category>
 	</software>
 	<software name="ecco">
+		<category></category>
 	</software>
 	<software name="ecco2">
+		<category></category>
 	</software>
 	<software name="ejim">
-	</software>
+		<category></category>
+	</software>	
 	<software name="enduro">
+		<category></category>
 	</software>
 	<software name="enduroj">
+		<category></category>
 	</software>
 	<software name="eswatc">
+		<category></category>
 		<port>eswat</port>
 	</software>
 	<software name="excdizzy">
+		<category></category>
 	</software>
 	<software name="f1">
+		<category></category>
 	</software>
 	<software name="f1spirit">
+		<category></category>
 	</software>
 	<software name="f16fight">
+		<category></category>
 	</software>
 	<software name="fatetris">
+		<category></category>
 	</software>
 	<software name="fantdizz">
+		<category></category>
 	</software>
 	<software name="fantzon2">
+		<category></category>
 		<port>fantzn2</port>
 	</software>
 	<software name="fantzone">
+		<category></category>
 		<port>fantzone</port>
 	</software>
 	<software name="fantzonm">
+		<category></category>
 	</software>
 	<software name="ferias">
+		<category></category>
 	</software>
 	<software name="fifa">
 		<category>Sports / Soccer</category>
 	</software>
 	<software name="fireforg">
+		<category></category>
 	</software>
 	<software name="fireice">
+		<category></category>
 	</software>
 	<software name="flash">
+		<category></category>
 	</software>
 	<software name="fpoint">
+		<category></category>
 	</software>
 	<software name="flint">
+		<category></category>
 	</software>
 	<software name="georgeko">
 		<category>Sports / Boxing</category>
@@ -310,239 +436,359 @@
 		<port>forgottn</port>
 	</software>
 	<software name="gaegujan">
+		<category></category>
 	</software>
 	<software name="gground">
 		<port>gground</port>
 	</software>
 	<software name="galactpr">
+		<category></category>
 	</software>
 	<software name="galaxian">
+		<category></category>
 	</software>
 	<software name="gforce">
+		<category></category>
 	</software>
 	<software name="gamebox">
+		<category></category>
 	</software>
 	<software name="robocop">
+		<category></category>
 	</software>
 	<software name="gangster">
+		<category></category>
 	</software>
 	<software name="gauntlet">
+		<category></category>
+		<port>gauntlet</port>
 	</software>
 	<software name="goldnaxe">
+		<category></category>
 		<port>goldnaxe</port>
 	</software>
 	<software name="gaxewarr">
+		<category></category>
 	</software>
 	<software name="ghostbst">
+		<category></category>
 	</software>
 	<software name="ghosth">
+		<category></category>
 	</software>
 	<software name="ghouls">
+		<category></category>
 		<port>ghouls</port>
 	</software>
 	<software name="globald">
+		<category></category>
 	</software>
 	<software name="gloc">
+		<category></category>
 		<port>gloc</port>
 	</software>
 	<software name="golfaman">
+		<category></category>
 	</software>
 	<software name="golvell">
+		<category></category>
 	</software>
 	<software name="gprider">
+		<category></category>
 	</software>
 	<software name="greatbas">
+		<category></category>
 	</software>
 	<software name="greatbsk">
+		<category></category>
 	</software>
 	<software name="greatftb">
+		<category></category>
 	</software>
 	<software name="greatglf">
+		<category></category>
 	</software>
 	<software name="greatglj">
+		<category></category>
 	</software>
 	<software name="greatice">
+		<category></category>
 	</software>
 	<software name="greatscr">
+		<category></category>
 	</software>
 	<software name="greatvol">
+		<category></category>
 	</software>
 	<software name="gunsmoke">
+		<category></category>
 	</software>
 	<software name="hangon">
 		<category>Driving / Race (chase view) Bike</category>
 		<port>hangon</port>
 	</software>
 	<software name="hangonaw">
+		<category></category>
 	</software>
 	<software name="hangonsh">
+		<category></category>
 	</software>
 	<software name="heavyw">
+		<category></category>
 	</software>
 	<software name="herolanc">
+		<category></category>
 	</software>
 	<software name="highsc">
+		<category></category>
 	</software>
 	<software name="hokuto">
+		<category></category>
 	</software>
 	<software name="homea">
+		<category></category>
 	</software>
 	<software name="hongkd">
+		<category></category>
 	</software>
 	<software name="hook">
+		<category></category>
 	</software>
 	<software name="hoshiw">
+		<category></category>
 	</software>
 	<software name="impmiss">
+		<category></category>
 	</software>
 	<software name="crashdum">
+		<category></category>
 	</software>
 	<software name="hulk">
+		<category></category>
 	</software>
 	<software name="indycrus">
+		<category></category>
 	</software>
 	<software name="jb007">
+		<category></category>
 	</software>
 	<software name="janggun">
+		<category></category>
 	</software>
 	<software name="jangpun2">
+		<category></category>
 	</software>
 	<software name="jangpun3">
+		<category></category>
 	</software>
 	<software name="joemont">
+		<category></category>
 	</software>
 	<software name="jungle">
+		<category></category>
 	</software>
 	<software name="jpark">
+		<category></category>
 	</software>
 	<software name="kenseid">
+		<category></category>
 	</software>
 	<software name="kingqst">
+		<category></category>
 	</software>
 	<software name="kingball">
+		<category></category>
 	</software>
 	<software name="klax">
+		<category></category>
 	</software>
 	<software name="knightm2">
+		<category></category>
 	</software>
 	<software name="krustyfh">
+		<category></category>
 	</software>
 	<software name="kujaku">
+		<category></category>
+	</software>		
 	<software name="kungfuk">
+		<category></category>
 	</software>
 	<software name="landill">
+		<category></category>
 	</software>
 	<software name="lghost">
+		<category></category>
 	</software>
 	<software name="legndill">
+		<category></category>
 	</software>
 	<software name="lemmings">
+		<category></category>
 	</software>
 	<software name="lemming2">
+		<category></category>
 	</software>
 	<software name="loffire">
+		<category></category>
 	</software>
 	<software name="lionking">
+		<category></category>
 	</software>
 	<software name="lordswrd">
+		<category></category>
 	</software>
 	<software name="loretta">
+		<category></category>
 	</software>
 	<software name="luckydim">
+		<category></category>
 	</software>
 	<software name="mjsengok">
+		<category></category>
 	</software>
 	<software name="makairet">
+		<category></category>
 	</software>
 	<software name="marble">
+		<category></category>
 	</software>
 	<software name="marksman">
+		<category></category>
 	</software>
 	<software name="mastcomb">
+		<category></category>
 	</software>
 	<software name="mastdark">
+		<category></category>
 	</software>
 	<software name="mazehunt">
+		<category></category>
 	</software>
 	<software name="megumi">
+		<category></category>
 	</software>
 	<software name="mercs">
+		<category></category>
 	</software>
 	<software name="mickeyuc">
+		<category></category>
 	</software>
 	<software name="mickmack">
+		<category></category>
 	</software>
 	<software name="micromac">
+		<category></category>
 	</software>
 	<software name="sdmilhao">
+		<category></category>
 	</software>
 	<software name="miracle">
+		<category></category>
 	</software>
 	<software name="missil3d">
+		<category></category>
 	</software>
 	<software name="mk">
+		<category></category>
 	</software>
 	<software name="mk2">
+		<category></category>
 	</software>
 	<software name="mk3">
+		<category></category>
 	</software>
 	<software name="monopoly">
+		<category></category>
 	</software>
 	<software name="montezum">
+		<category></category>
 	</software>
 	<software name="mopirang">
+		<category></category>
 	</software>
 	<software name="mspacman">
+		<category></category>
 	</software>
 	<software name="mwalk">
+		<category></category>
 	</software>
 	<software name="myhero">
+		<category></category>
 	</software>
 	<software name="nbajam">
+		<category></category>
 	</software>
 	<software name="nekkyu">
+		<category></category>
 	</software>
 	<software name="nemesis">
+		<category></category>
 	</software>
 	<software name="nemesis2">
+		<category></category>
 	</software>
 	<software name="ninja">
+		<category></category>
 	</software>
 	<software name="ngaiden">
+		<category></category>
 	</software>
 	<software name="olympgld">
+		<category></category>
 	</software>
 	<software name="opwolf">
+		<category></category>
+		<port>opwolf</port>
 	</software>
 	<software name="ottifant">
+		<category></category>
 	</software>
 	<software name="outrun">
+		<category></category>
+		<port>outrun</port>
 	</software>
 	<software name="outrun3d">
+		<category></category>
 	</software>
 	<software name="outrneur">
+		<category></category>
 	</software>
 	<software name="pacmania">
+		<category></category>
+		<port>pacmania</port>
 	</software>
 	<software name="paperboy">
+		<category></category>
+		<port>paperboy</port>
 	</software>
 	<software name="parlour">
+		<category></category>
 	</software>
 	<software name="patriley">
+		<category></category>
 	</software>
 	<software name="pengadv">
+		<category></category>
 	</software>
 	<software name="pengland">
+		<category></category>
 	</software>
 	<software name="pgatour">
+		<category></category>
 	</software>
 	<software name="pitfight">
+		<category></category>
+		<port>pitfight</port>
 	</software>
 	<software name="pooyan">
+		<category></category>
 	</software>
 	<software name="populous">
+		<category></category>
 	</software>
 	<software name="poseidon">
+		<category></category>
 	</software>
 	<software name="pstrike">
 		<category>Shooter / Flying Vertical</category>
@@ -551,303 +797,459 @@
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="ppersia">
+		<category></category>
 	</software>
 	<software name="predatr2">
+		<category></category>
 	</software>
 	<software name="prowres">
+		<category></category>
 	</software>
 	<software name="proyakyu">
+		<category></category>
 	</software>
 	<software name="pstar">
+		<category></category>
 	</software>
 	<software name="psychicw">
+		<category></category>
 	</software>
 	<software name="psychof">
+		<category></category>
 	</software>
 	<software name="puttputt">
+		<category></category>
 	</software>
 	<software name="puznic">
+		<category></category>
 	</software>
 	<software name="quartet">
+		<category></category>
 	</software>
 	<software name="shavnyak">
+		<category></category>
 	</software>
 	<software name="rbisland">
+		<category></category>
 	</software>
 	<software name="rambo3">
+		<category></category>
 	</software>
 	<software name="rampage">
+		<category></category>
+		<port>rampage</port>
 	</software>
 	<software name="rampart">
+		<category></category>
+		<port>rampart</port>
 	</software>
 	<software name="rastan">
+		<category></category>
+		<port>rastan</port>
 	</software>
 	<software name="rcgp">
+		<category></category>
 	</software>
 	<software name="renegade">
+		<category></category>
 	</software>
 	<software name="rescuems">
+		<category></category>
 	</software>
 	<software name="roadfght">
+		<category></category>
 	</software>
 	<software name="roadrash">
+		<category></category>
 	</software>
 	<software name="robocod">
+		<category></category>
 	</software>
 	<software name="robocop3">
+		<category></category>
 	</software>
 	<software name="roboterm">
+		<category></category>
 	</software>
 	<software name="rocky">
+		<category></category>
 	</software>
 	<software name="rtype">
 		<category>Shooter / Flying Horizontal</category>
 		<port>rtype</port>
 	</software>
 	<software name="running">
+		<category></category>
 	</software>
 	<software name="sagaia">
 		<category>Shooter / Flying Horizontal</category>
 		<port>darius2</port>
 	</software>
 	<software name="sangoku3">
+		<category></category>
 	</software>
 	<software name="smurfs2">
+		<category></category>
 	</software>
 	<software name="sci">
+		<category></category>
 	</software>
 	<software name="sspirits">
-		<category>Shooter / Flying Vertical</category>		
+		<category>Shooter / Flying Vertical</category>
+		<port>sspirits</port>
 	</software>
 	<software name="secret">
+		<category></category>
 	</software>
 	<software name="segachss">
+		<category></category>
 	</software>
 	<software name="segagfx">
+		<category></category>
 	</software>
 	<software name="segawtg">
+		<category></category>
 	</software>
 	<software name="sensible">
+		<category></category>
 	</software>
 	<software name="skyfight">
+		<category></category>
 	</software>
 	<software name="skyjag">
+		<category></category>
 	</software>
 	<software name="sf2">
 		<category>Fighter / Versus</category>
+		<port>sf2</port>
 	</software>
 	<software name="shdancer">
+		<category></category>
+		<port>shdancer</port>
 	</software>
 	<software name="shanghai">
+		<category></category>
 	</software>
 	<software name="sharrier">
+		<category></category>
+		<port>sharrier</port>
 	</software>
 	<software name="sharr3d">
+		<category></category>
 	</software>
 	<software name="shinobi">
+		<category></category>
+		<port>shinobi</port>
 	</software>
 	<software name="shooting">
+		<category></category>
 	</software>
 	<software name="sitio">
+		<category></category>
 	</software>
 	<software name="slapshot">
+		<category></category>
 	</software>
 	<software name="supcol">
+		<category></category>
 	</software>
 	<software name="smgp">
+		<category></category>
 	</software>
 	<software name="sms3samp">
+		<category></category>
 	</software>
 	<software name="smurfs">
+		<category></category>
 	</software>
 	<software name="solomon">
+		<category></category>
 	</software>
 	<software name="sonic">
+		<category></category>
 	</software>
 	<software name="sonic2">
+		<category></category>
 	</software>
 	<software name="sonicbls">
+		<category></category>
 	</software>
 	<software name="sonicc">
+		<category></category>
 	</software>
 	<software name="sonicedu">
+		<category></category>
 	</software>
 	<software name="sspin">
+		<category></category>
 	</software>
 	<software name="sor">
+		<category></category>
 	</software>
 	<software name="sor2">
+		<category></category>
 	</software>
 	<software name="spacegun">
+		<category></category>
+		<port>spacegun</port>
 	</software>
 	<software name="speedbl">
+		<category></category>
 	</software>
 	<software name="speedbl2">
+		<category></category>
 	</software>
 	<software name="speedblv">
+		<category></category>
 	</software>
 	<software name="spellcst">
+		<category></category>
 	</software>
 	<software name="spidermn">
+		<category></category>
 	</software>
 	<software name="spidking">
+		<category></category>
 	</software>
 	<software name="sportsft">
+		<category></category>
 	</software>
 	<software name="spyvsspy">
+		<category></category>
 	</software>
 	<software name="ssinv">
+		<category></category>
 	</software>
 	<software name="smashtv">
+		<category></category>
+		<port>smashtv</port>
 	</software>
 	<software name="starwars">
+		<category></category>
 	</software>
 	<software name="strtmast">
+		<category></category>
 	</software>
 	<software name="strider">
+		<category></category>
+		<port>strider</port>
 	</software>
 	<software name="strider2">
+		<category></category>
 	</software>
 	<software name="submarin">
+		<category></category>
 	</software>
 	<software name="suhocheo">
+		<category></category>
 	</software>
 	<software name="sukeban">
+		<category></category>
 	</software>
 	<software name="sumgames">
+		<category></category>
 	</software>
 	<software name="superman">
+		<category></category>
 	</software>
 	<software name="suprbskt">
+		<category></category>
 	</software>
 	<software name="sbioman1">
+		<category></category>
 	</software>
 	<software name="sboy1">
+		<category></category>
 	</software>
 	<software name="sboy2">
+		<category></category>
 	</software>
 	<software name="sboy3">
+		<category></category>
 	</software>
 	<software name="sboy4">
+		<category></category>
 	</software>
 	<software name="skickoff">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="superoff">
+		<category></category>
 	</software>
 	<software name="superrac">
+		<category></category>
 	</software>
 	<software name="stennis">
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="t2ag">
+		<category></category>
 	</software>
 	<software name="tazmania">
+		<category></category>
 	</software>
 	<software name="tazmars">
+		<category></category>
 	</software>
 	<software name="tecmow92">
+		<category></category>
 	</software>
 	<software name="tecmow93">
+		<category></category>
 	</software>
 	<software name="teddyboy">
+		<category></category>
 	</software>
 	<software name="tennis">
+		<category></category>
 	</software>
 	<software name="bakabon">
+		<category></category>
 	</software>
 	<software name="term2">
+		<category></category>
 	</software>
 	<software name="termntr">
+		<category></category>
 	</software>
 	<software name="tblade">
+		<category></category>
 	</software>
 	<software name="timesold">
+		<category></category>
 	</software>
 	<software name="tnzs">
+		<category></category>
 	</software>
 	<software name="tomjermv">
+		<category></category>
 	</software>
 	<software name="totowld3">
+		<category></category>
 	</software>
-	<software name="transbot">
+	<software name="transbot">		
 		<category>Shooter / Flying Horizontal</category>
 	</software>
 	<software name="trivial">
+		<category></category>
 	</software>
 	<software name="ultima4">
+		<category></category>
 	</software>
 	<software name="ultsoccr">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="vfa">
+		<category></category>
 	</software>
 	<software name="vigilant">
+		<category></category>
+		<port>vigilant</port>
 	</software>
 	<software name="wanted">
+		<category></category>
 	</software>
 	<software name="wboy">
+		<category></category>
+		<port>wboy</port>
 	</software>
 	<software name="wboy3">
+		<category></category>
 	</software>
 	<software name="wboymlnd">
+		<category></category>
 	</software>
 	<software name="wboymwld">
+		<category></category>
 	</software>
 	<software name="wonsiin">
+		<category></category>
 	</software>
 	<software name="wclead">
+		<category></category>
 	</software>
 	<software name="wcup90">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="wcup94">
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="wimbled2">
+		<category></category>
 	</software>
 	<software name="wimbled">
+		<category></category>
 	</software>
 	<software name="wintol">
+		<category></category>
 	</software>
 	<software name="wolfchld">
+		<category></category>
 	</software>
 	<software name="wldgames">
+		<category></category>
 	</software>
 	<software name="smssgame">
+		<category></category>
 	</software>
 	<software name="sn_ateam">
+		<category></category>
 	</software>
 	<software name="sn_lwep3">
+		<category></category>
 	</software>
 	<software name="comical">
+		<category></category>
 	</software>
 	<software name="pitpot">
+		<category></category>
 	</software>
 	<software name="satell7">
+		<category></category>
 	</software>
 	<software name="seishun">
+		<category></category>
 	</software>
 	<software name="worldgp">
+		<category></category>
 	</software>
 	<software name="worldsoc">
+		<category></category>
 	</software>
 	<software name="wwfsteel">
+		<category></category>
 	</software>
 	<software name="woodypop">
+		<category></category>
 	</software>
 	<software name="xenon2">
 		<category>Shooter / Flying Vertical</category>
+		<port></port>
 	</software>	
 	<software name="xevious">
+		<category>Shooter / Flying Vertical</category>
+		<port></port>
 	</software>
 	<software name="xmenmojo">
+		<category></category>
 	</software>
 	<software name="xyzolog">
+		<category></category>
 	</software>
 	<software name="ys">
+		<category></category>
 	</software>
 	<software name="zaxxon3d">
+		<category></category>
 	</software>
 	<software name="zillion">
+		<category></category>
 	</software>
 	<software name="zillion2">
+		<category></category>
 	</software>
 	<software name="zool">
+		<category></category>
+		<port></port>
 	</software>
 </softwarelist>
