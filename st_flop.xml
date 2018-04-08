@@ -65,6 +65,7 @@
 	<software name="icepalac">
 	</software>
 	<software name="blktiger">
+		<port>blktiger</port>
 	</software>
 	<software name="blstroid">
 	</software>
@@ -81,6 +82,7 @@
 	<software name="bobwinnr">
 	</software>
 	<software name="bombjack">
+		<port>bombjack</port>
 	</software>
 	<software name="bridgema">
 	</software>
@@ -109,6 +111,7 @@
 	<software name="chase">
 	</software>
 	<software name="chasehq">
+		<port>chasehq</port>
 	</software>
 	<software name="chsp2150">
 	</software>
@@ -135,6 +138,7 @@
 	<software name="corruptn">
 	</software>
 	<software name="crkdown">
+		<port>crkdown</port>
 	</software>
 	<software name="cricketc">
 	</software>
