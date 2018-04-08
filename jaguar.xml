@@ -1,142 +1,208 @@
 <?xml version="1.0"?>
 <softwarelist name="jaguar">
 	<software name="aircars">
+		<category></category>
 	</software>
 	<software name="avsp">
+		<category></category>
 	</software>
 	<software name="fball95">
+		<category></category>
 	</software>
 	<software name="atarikrt">
+		<category></category>
 	</software>
 	<software name="mutntpng">
+		<category></category>
 	</software>
 	<software name="barkley">
+		<category></category>
 	</software>
 	<software name="battlesp">
+		<category></category>
 	</software>
 	<software name="battlesg">
+		<category></category>
 	</software>
 	<software name="breakout">
+		<category></category>
 	</software>
 	<software name="bretth">
+		<category></category>
 	</software>
 	<software name="brutalsp">
+		<category></category>
 	</software>
 	<software name="bubsy">
+		<category></category>
 	</software>
 	<software name="cfodder">
+		<category></category>
 	</software>
 	<software name="chekflag">
+		<category></category>
 	</software>
 	<software name="clubdriv">
+		<category></category>
 	</software>
 	<software name="cybermor">
+		<category></category>
 	</software>
 	<software name="defender">
+		<category></category>
 	</software>
 	<software name="doom">
+		<category></category>
 	</software>
 	<software name="ddragon5">
+		<category></category>
 	</software>
 	<software name="dragon">
+		<category></category>
 	</software>
 	<software name="dinodude">
+		<category></category>
 	</software>
 	<software name="feverpit">
+		<category></category>
 	</software>
 	<software name="fforlife">
+		<category></category>
 	</software>
 	<software name="flashb">
+		<category></category>
 	</software>
 	<software name="flipout">
+		<category></category>
 	</software>
 	<software name="hstrike">
+		<category></category>
 	</software>
 	<software name="hyperfrc">
+		<category></category>
 	</software>
 	<software name="iwar">
+		<category></category>
 	</software>
 	<software name="ironsold">
+		<category></category>
 	</software>
 	<software name="ironsol2">
+		<category></category>
 	</software>
 	<software name="kasumi">
+		<category></category>
 	</software>
 	<software name="memtrack">
+		<category></category>
 	</software>
 	<software name="missil3d">
+		<category></category>
 	</software>
 	<software name="nbajamte">
+		<category></category>
 	</software>
 	<software name="phase0">
+		<category></category>
 	</software>
 	<software name="pbfant">
+		<category></category>
 	</software>
 	<software name="pitfall">
+		<category></category>
 	</software>
 	<software name="pdrive">
+		<category></category>
 	</software>
 	<software name="protect">
+		<category></category>
 	</software>
 	<software name="protctse">
+		<category></category>
 	</software>
-	<software name="raiden">
+	<software name="raiden">		
 		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="rayman">
+		<category></category>
 	</software>
 	<software name="ruinerp">
+		<category></category>
 	</software>
 	<software name="sensible">
+		<category></category>
 	</software>
 	<software name="skyhamm">
+		<category></category>
 	</software>
 	<software name="soccerkd">
+		<category></category>
 	</software>
 	<software name="spacewar">
+		<category></category>
 	</software>
 	<software name="sburnout">
+		<category></category>
 	</software>
 	<software name="superx3d">
+		<category></category>
 	</software>
 	<software name="syndicat">
+		<category></category>
 	</software>
 	<software name="tempst2k">
+		<category></category>
 	</software>
 	<software name="themeprk">
+		<category></category>
 	</software>
 	<software name="ttoonadv">
+		<category></category>
 	</software>
 	<software name="totalcar">
+		<category></category>
 	</software>
 	<software name="towers2">
+		<category></category>
 	</software>
 	<software name="trevmcfr">
+		<category></category>
 	</software>
 	<software name="troyaik">
+		<category></category>
 	</software>
 	<software name="ultravor">
+		<category></category>
 	</software>
 	<software name="valdiser">
+		<category></category>
 	</software>
 	<software name="whitemen">
+		<category></category>
 	</software>
 	<software name="wolfn3d">
-	</software>
-	<software name="worms">
-	</software>
-	<software name="zero5">
-	</software>
-	<software name="zool2">
-	</software>
-	<software name="zoop">
+		<category></category>
 	</software>
 	<software name="cybrgolf">
+		<category></category>
 	</software>
 	<software name="gorf2k">
+		<category></category>
 	</software>
 	<software name="missilvr">
 	</software>
 	<software name="ultbrain">
+	</software>
+	<software name="worms">
+		<category></category>
+	</software>	
+	<software name="zero5">
+		<category></category>
+	</software>
+	<software name="zool2">
+		<category></category>
+	</software>
+	<software name="zoop">
+		<category></category>
 	</software>
 </softwarelist>
