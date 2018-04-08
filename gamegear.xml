@@ -335,7 +335,7 @@
 		<category>Sports / Boxing</category>
 	</software>
 	<software name="ggaleste">
-		<category></category>
+		<category>Shooter / Flying Vertical</category>
 	</software>
 	<software name="ggdora">
 		<category></category>
@@ -749,13 +749,15 @@
 		<category></category>
 	</software>
 	<software name="pstrike2">
-		<category></category>
+		<category>Shooter / Flying Vertical</category>
+		<prequel>gamegear:ggaleste</prequel>
 	</software>
 	<software name="predatr2">
 		<category></category>
 	</software>
 	<software name="primal">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>primrage</port>
 	</software>
 	<software name="ppersia">
 		<category></category>
@@ -965,6 +967,7 @@
 	</software>
 	<software name="sor2">
 		<category>Fighter / 2.5D</category>
+		<prequel>gamegear:sor</prequel>
 	</software>
 	<software name="striker">
 		<category></category>
@@ -995,6 +998,7 @@
 	</software>
 	<software name="smashtv">
 		<category></category>
+		<port>smashtv</port>
 	</software>
 	<software name="ssinv">
 		<category></category>
@@ -1013,6 +1017,7 @@
 	</software>
 	<software name="t2ag">
 		<category></category>
+		<port>term2</port>
 	</software>
 	<software name="tailsadv">
 		<category></category>
@@ -1031,6 +1036,7 @@
 	</software>	
 	<software name="chasehq">
 		<category></category>
+		<port>chasehq</port>
 	</software>
 	<software name="talespin">
 		<category></category>
