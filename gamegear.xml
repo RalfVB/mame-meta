@@ -213,7 +213,7 @@
 		<category></category>
 	</software>
 	<software name="ddragon">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 	</software>
 	<software name="drrobotn">
 		<category></category>
@@ -283,14 +283,14 @@
 		<category></category>
 	</software>
 	<software name="fatfursp">
-		<category></category>
+		<category>Fighter / Versus</category>
 		<port>fatfursp</port>
 	</software>
 	<software name="fifa">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="fifa96">
-		<category></category>
+		<category>Sports / Soccer</category>
 	</software>
 	<software name="foreman">
 		<category>Sports / Boxing</category>
@@ -592,16 +592,20 @@
 		<category></category>
 	</software>
 	<software name="mk">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>mk</port>
 	</software>
 	<software name="mk2">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>mk2</port>
 	</software>
 	<software name="mk3">
-		<category></category>
+		<category>Fighter / Versus</category>
+		<port>mk3</port>
 	</software>
 	<software name="mspacman">
 		<category></category>
+		<port>mspacman</port>
 	</software>
 	<software name="nazopuyo">
 		<category></category>
@@ -957,10 +961,10 @@
 		<category></category>
 	</software>
 	<software name="sor">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 	</software>
 	<software name="sor2">
-		<category></category>
+		<category>Fighter / 2.5D</category>
 	</software>
 	<software name="striker">
 		<category></category>
