@@ -1,174 +1,256 @@
 <?xml version="1.0"?>
 <softwarelist name="st_flop">
 	<software name="10frame">
+		<category></category>
 	</software>
 	<software name="500gp">
+		<category></category>
 	</software>
 	<software name="5thgear">
+		<category></category>
 	</software>
 	<software name="academy">
+		<category></category>
 	</software>
 	<software name="actionfg">
+		<category></category>
 	</software>
 	<software name="actnserv">
+		<category></category>
 	</software>
 	<software name="addiball">
+		<category></category>
 	</software>
 	<software name="tiebreak">
+		<category></category>
 	</software>
 	<software name="advfruit">
+		<category></category>
 	</software>
 	<software name="advrugby">
+		<category></category>
 	</software>
 	<software name="advrobin">
+		<category></category>
 	</software>
-	<software name="aburner">
+	<software name="aburner"> 
+		<port>aburner</port>
 	</software>
 	<software name="alienwrl">
+		<category></category>
 	</software>
 	<software name="altreal">
+		<category></category>
 	</software>
 	<software name="anarchy">
+		<category></category>
 	</software>
 	<software name="anotherw">
+		<category></category>
 	</software>
 	<software name="apprent">
+		<category></category>
 	</software>
 	<software name="archipel">
+		<category></category>
 	</software>
 	<software name="arctfox">
+		<category></category>
 	</software>
 	<software name="artdream">
+		<category></category>
 	</software>
 	<software name="atax">
+		<category></category>
 	</software>
 	<software name="atomix">
+		<category></category>
 	</software>
 	<software name="backgamm">
+		<category></category>
 	</software>
 	<software name="balpow90">
+		<category></category>
 	</software>
 	<software name="ballistx">
+		<category></category>
 	</software>
 	<software name="barbpal">
+		<category></category>
 	</software>
 	<software name="btlchess">
+		<category></category>
 	</software>
 	<software name="btlprobe">
+		<category></category>
 	</software>
 	<software name="bhawk42">
+		<category></category>
 	</software>
 	<software name="bchvolly">
+		<category></category>
 	</software>
 	<software name="beastlrd">
+		<category></category>
 	</software>
 	<software name="icepalac">
+		<category></category>
 	</software>
 	<software name="blktiger">
+		<category></category>
 		<port>blktiger</port>
 	</software>
 	<software name="blstroid">
+		<category></category>
 	</software>
 	<software name="blzthndr">
+		<category></category>
 	</software>
 	<software name="blockout">
+		<category></category>
 	</software>
 	<software name="bloodmon">
+		<category></category>
 	</software>
 	<software name="bluesb">
+		<category></category>
 	</software>
 	<software name="bmx">
+		<category></category>
 	</software>
 	<software name="bobwinnr">
+		<category></category>
 	</software>
 	<software name="bombjack">
 		<port>bombjack</port>
 	</software>
 	<software name="bridgema">
+		<category></category>
 	</software>
 	<software name="bridgepl">
+		<category></category>
 	</software>
 	<software name="bumpy">
+		<category></category>
 	</software>
 	<software name="burgermn">
+		<category></category>
 	</software>
 	<software name="capblood">
+		<category></category>
 	</software>
 	<software name="capfizz">
+		<category></category>
 	</software>
 	<software name="carrierc">
+		<category></category>
 	</software>
 	<software name="cartncap">
+		<category></category>
 	</software>
 	<software name="catch23">
+		<category></category>
 	</software>
 	<software name="champbb">
+		<category></category>
 	</software>
 	<software name="champcrk">
+		<category></category>
 	</software>
 	<software name="champwrs">
+		<category></category>
 	</software>
 	<software name="chase">
+		<category></category>
 	</software>
 	<software name="chasehq">
+		<category></category>
 		<port>chasehq</port>
 	</software>
 	<software name="chsp2150">
+		<category></category>
 	</software>
 	<software name="chesssim">
+		<category></category>
 	</software>
 	<software name="cm2000">
+		<category></category>
 	</software>
 	<software name="chicag30">
+		<category></category>
 	</software>
 	<software name="chipchal">
+		<category></category>
 	</software>
 	<software name="cquest2">
+		<category></category>
 	</software>
 	<software name="chuckie">
+		<category></category>
 	</software>
 	<software name="chuckie2">
+		<category></category>
 	</software>
 	<software name="cloudkng">
+		<category></category>
 	</software>
 	<software name="camelot">
+		<category></category>
 	</software>
 	<software name="contcirc">
+		<category></category>
 	</software>
 	<software name="corruptn">
+		<category></category>
 	</software>
 	<software name="crkdown">
+		<category></category>
 		<port>crkdown</port>
 	</software>
 	<software name="cricketc">
+		<category></category>
 	</software>
 	<software name="ccastles">
+		<category></category>
 	</software>
 	<software name="cyberbal">
+		<category></category>
 	</software>
 	<software name="cybercn3">
+		<category></category>
 	</software>
 	<software name="damesim">
+		<category></category>
 	</software>
 	<software name="dariusp">
+		<category></category>
 	</software>
 	<software name="dayviper">
+		<category></category>
 	</software>
 	<software name="deep">
+		<category></category>
 	</software>
 	<software name="dejavu">
+		<category></category>
 	</software>
 	<software name="deliver">
+		<category></category>
 	</software>
 	<software name="demonblu">
+		<category></category>
 	</software>
 	<software name="demoniak">
+		<category></category>
 	</software>
 	<software name="dicktr">
+		<category></category>
 	</software>
 	<software name="disc">
+		<category></category>
 	</software>
 	<software name="dizzydic">
+		<category></category>
 	</software>
 	<software name="ddragon">
 		<port>ddragon</port>
@@ -181,59 +263,87 @@
 		<port>dspirit</port>
 	</software>
 	<software name="drakkhen">
+		<category></category>
 	</software>
 	<software name="driller">
+		<category></category>
 	</software>
 	<software name="dynawars">
+		<category></category>
 	</software>
 	<software name="eastwest">
+		<category></category>
 	</software>
 	<software name="elementl">
+		<category></category>
 	</software>
 	<software name="elfmv">
+		<category></category>
 	</software>
 	<software name="elite">
+		<category></category>
 	</software>
 	<software name="enterpr">
+		<category></category>
 	</software>
 	<software name="erik">
+		<category></category>
 	</software>
 	<software name="exolon">
+		<category></category>
 	</software>
 	<software name="eyehorus">
+		<category></category>
 	</software>
 	<software name="f19sf">
+		<category></category>
 	</software>
 	<software name="faceoff">
+		<category></category>
 	</software>
 	<software name="faceoffa">
+		<category></category>
 	</software>
 	<software name="firefor2">
+		<category></category>
 	</software>
 	<software name="flimboqs">
+		<category></category>
 	</software>
 	<software name="fbmang2">
+		<category></category>
 	</software>
 	<software name="foundwst">
+		<category></category>
 	</software>
 	<software name="fullmp">
+		<category></category>
 	</software>
 	<software name="futbaskt">
+		<category></category>
 	</software>
 	<software name="futwars">
+		<category></category>
 	</software>
 	<software name="gforce2">
+		<category></category>
 		<port>gforce2</port>
 	</software>
 	<software name="gameovr2">
+		<category></category>
 	</software>
 	<software name="gazza">
+		<category></category>
 	</software>
 	<software name="gemiwing">
+		<category></category>
+		<port>gemini</port>
 	</software>
 	<software name="getdextr">
+		<category></category>
 	</software>
 	<software name="gflchafb">
+		<category></category>
 	</software>
 	<software name="gng">
 		<port>gng</port>
@@ -243,370 +353,555 @@
 		<prequel>st_flop:gng</prequel>
 	</software>
 	<software name="gomoku">
+		<category></category>
 	</software>
 	<software name="goofyexp">
+		<category></category>
 	</software>
 	<software name="gravity">
+		<category></category>
 	</software>
 	<software name="growth">
+		<category></category>
 	</software>
 	<software name="guardang">
+		<category></category>
 	</software>
 	<software name="guildthv">
+		<category></category>
 	</software>
 	<software name="hacker2">
+		<category></category>
 	</software>
 	<software name="hammrfst">
+		<category></category>
 	</software>
 	<software name="hardnova">
+		<category></category>
 	</software>
 	<software name="hardball">
+		<category></category>
 	</software>
 	<software name="harley">
+		<category></category>
 	</software>
 	<software name="hellraid">
+		<category></category>
 	</software>
 	<software name="herolanc">
+		<category></category>
 	</software>
 	<software name="hillstrt">
+		<category></category>
 	</software>
 	<software name="hannabar">
+		<category></category>
 	</software>
 	<software name="hostages">
+		<category></category>
 	</software>
 	<software name="hotshot">
+		<category></category>
 	</software>
 	<software name="houndshd">
+		<category></category>
 	</software>
 	<software name="huntrklr">
+		<category></category>
 	</software>
 	<software name="hyperbwl">
+		<category></category>
 	</software>
 	<software name="iball">
+		<category></category>
 	</software>
 	<software name="immortal">
+		<category></category>
 	</software>
 	<software name="indy">
+		<category></category>
 	</software>
 	<software name="ininjarb">
+		<category></category>
 	</software>
 	<software name="inttruck">
+		<category></category>
 	</software>
 	<software name="intphase">
+		<category></category>
 	</software>
 	<software name="italy90">
+		<category></category>
 	</software>
 	<software name="ivanhoe">
+		<category></category>
 	</software>
 	<software name="jpond">
+		<category></category>
 	</software>
 	<software name="robocod">
+		<category></category>
 		<prequel>st_flop:jpond</prequel>
 	</software>
 	<software name="jeweldrk">
+		<category></category>
 	</software>
 	<software name="kickoff2">
+		<category></category>
 	</software>
 	<software name="kilcloud">
+		<category></category>
 	</software>
 	<software name="kingqst3">
+		<category></category>
 	</software>
 	<software name="klax">
+		<port>klax</port>
 	</software>
 	<software name="lasersqd">
+		<category></category>
 	</software>
 	<software name="lastnin3">
+		<category></category>
 	</software>
 	<software name="leadbg">
+		<category></category>
 	</software>
 	<software name="lslarry">
+		<category></category>
 	</software>
 	<software name="lxcess">
+		<category></category>
 	</software>
 	<software name="lightcor">
+		<category></category>
 	</software>
 	<software name="locomotn">
+		<category></category>
 	</software>
 	<software name="logical">
+		<category></category>
 	</software>
 	<software name="luretemp">
+		<category></category>
 	</software>
 	<software name="lurkinh">
+		<category></category>
 	</software>
 	<software name="mach3">
+		<category></category>
 	</software>
 	<software name="mafdet">
+		<category></category>
 	</software>
 	<software name="manutd">
+		<category></category>
 	</software>
 	<software name="manhdeal">
+		<category></category>
 	</software>
 	<software name="mortviel">
+		<category></category>
 	</software>
 	<software name="matrixmr">
+		<category></category>
 	</software>
 	<software name="mean18">
+		<category></category>
 	</software>
 	<software name="megatwin">
+		<category></category>
 	</software>
 	<software name="mercenry">
+		<category></category>
 	</software>
 	<software name="metrox">
+		<category></category>
 	</software>
 	<software name="mindwhel">
+		<category></category>
 	</software>
 	<software name="missing">
+		<category></category>
 	</software>
 	<software name="missgeno">
+		<category></category>
 	</software>
 	<software name="monstbus">
+		<category></category>
 	</software>
 	<software name="nevermnd">
+		<category></category>
 	</software>
 	<software name="mansell">
+		<category></category>
 	</software>
 	<software name="nshift">
+		<category></category>
 	</software>
 	<software name="nightwlk">
+		<category></category>
 	</software>
 	<software name="ninjarab">
+		<category></category>
 	</software>
 	<software name="nitrobc">
+		<category></category>
 	</software>
 	<software name="noexcuse">
+		<category></category>
 	</software>
 	<software name="northns">
+		<category></category>
 	</software>
 	<software name="obliter">
+		<category></category>
 	</software>
 	<software name="everton">
+		<category></category>
 	</software>
 	<software name="oharrier">
+		<category></category>
 	</software>
 	<software name="ostealth">
+		<category></category>
 	</software>
 	<software name="othunder">
+		<category></category>
 	</software>
 	<software name="orbit2k">
+		<category></category>
 	</software>
 	<software name="orgames">
+		<category></category>
 	</software>
 	<software name="outcast">
+		<category></category>
 	</software>
 	<software name="overland">
+		<category></category>
 	</software>
 	<software name="goplayer">
+		<category></category>
 	</software>
 	<software name="pacmania">
+		<category></category>
+		<port>pacmania</port>
 	</software>
 	<software name="pandora">
+		<category></category>
 	</software>
 	<software name="paperboy">
+		<category></category>
+		<port>paperboy</port>
 	</software>
 	<software name="passwnd2">
+		<category></category>
 	</software>
 	<software name="pawn">
+		<category></category>
 	</software>
 	<software name="pharaoh3">
+		<category></category>
 	</software>
 	<software name="piction">
+		<category></category>
 	</software>
 	<software name="pirabarb">
+		<category></category>
 	</software>
 	<software name="pmanger">
+		<category></category>
 	</software>
 	<software name="pquest">
+		<category></category>
 	</software>
 	<software name="populopl">
+		<category></category>
 	</software>
 	<software name="presidnt">
+		<category></category>
 	</software>
 	<software name="prince">
+		<category></category>
 	</software>
 	<software name="prison">
+		<category></category>
 	</software>
 	<software name="puzznic">
+		<category></category>
 	</software>
 	<software name="quink">
+		<category></category>
 	</software>
 	<software name="raffles">
+		<category></category>
 	</software>
 	<software name="rallyx">
+		<category></category>
 	</software>
 	<software name="rghostb">
+		<category></category>
 	</software>
 	<software name="redheat">
+		<category></category>
 	</software>
 	<software name="redstorm">
+		<category></category>
 	</software>
 	<software name="resol101">
+		<category></category>
 	</software>
 	<software name="revmutcm">
+		<category></category>
 	</software>
 	<software name="roadwars">
+		<category></category>
 	</software>
 	<software name="robocop">
+		<category></category>
 	</software>
 	<software name="rockstar">
+		<category></category>
 	</software>
 	<software name="rodymas3">
+		<category></category>
 	</software>
 	<software name="rotor">
+		<category></category>
 	</software>
 	<software name="sargon3">
+		<category></category>
 	</software>
 	<software name="sascombs">
+		<category></category>
 	</software>
 	<software name="7gatejam">
+		<category></category>
 	</software>
 	<software name="shadgate">
+		<category></category>
 	</software>
 	<software name="sidewind">
+		<category></category>
 	</software>
 	<software name="silkworm">
-	</software>
+		<category></category>
+		<port>silkworm</port>
+	</software>	
 	<software name="sinbad">
+		<category></category>
 	</software>
 	<software name="sharrier">
+		<category></category>
 		<port>sharrier</port>
 	</software>
 	<software name="sharrie2">
+		<category></category>
 		<prequel>st_flop:sharrier</prequel>
 	</software>
 	<software name="sphericl">
+		<category></category>
 	</software>
 	<software name="spidertr">
+		<category></category>
 	</software>
 	<software name="spitfr40">
+		<category></category>
 	</software>
 	<software name="spitimag">
+		<category></category>
 	</software>
 	<software name="jedi">
+		<category></category>
 	</software>
 	<software name="esb">
+		<category></category>
 	</software>
 	<software name="starwrek">
+		<category></category>
 	</software>
 	<software name="starblaz">
+		<category></category>
 	</software>
 	<software name="starfl">
+		<category></category>
 	</software>
 	<software name="starglid">
+		<category></category>
 	</software>
 	<software name="stargld2">
+		<category></category>
+		<prequel>st_flop:starglid</prequel>
 	</software>
 	<software name="strquake">
+		<category></category>
 	</software>
 	<software name="steel">
+		<category></category>
 	</software>
 	<software name="stormstr">
+		<category></category>
 	</software>
 	<software name="strider">
+		<category></category>
 		<port>strider</port>
 	</software>
 	<software name="strike">
+		<category></category>
 	</software>
 	<software name="stryx">
+		<category></category>
 	</software>
 	<software name="sundog">
+		<category></category>
 	</software>
 	<software name="swap">
+		<category></category>
 	</software>
 	<software name="taipan">
+		<category></category>
 	</software>
 	<software name="tasstime">
+		<category></category>
 	</software>
 	<software name="tauceti">
+		<category></category>
 	</software>
 	<software name="tenniscp">
+		<category>Sports / Tennis</category>
 	</software>
 	<software name="terramex">
+		<category></category>
 	</software>
 	<software name="tdriv">
+		<category></category>
 	</software>
 	<software name="tparkmys">
+		<category></category>
 	</software>
 	<software name="thrust">
+		<category></category>
 	</software>
 	<software name="tburner">
+		<category></category>
 	</software>
 	<software name="thdrcats">
+		<category></category>
 	</software>
 	<software name="thdrwing">
+		<category></category>
 	</software>
 	<software name="timemag">
+		<category></category>
 	</software>
 	<software name="timeblst">
+		<category></category>
 	</software>
 	<software name="tintin">
+		<category></category>
 	</software>
 	<software name="toobin">
+		<category></category>
 	</software>
 	<software name="bhcats">
+		<category></category>
 	</software>
 	<software name="towbabel">
+		<category></category>
 	</software>
 	<software name="trailblz">
+		<category></category>
 	</software>
 	<software name="trasheap">
+		<category></category>
 	</software>
 	<software name="trauma">
+		<category></category>
 	</software>
 	<software name="treblech">
+		<category></category>
 	</software>
 	<software name="trinity">
+		<category></category>
 	</software>
 	<software name="trivianb">
+		<category></category>
 	</software>
 	<software name="turbogt">
+		<category></category>
 	</software>
 	<software name="toutrun">
+		<category></category>
 		<port>toutrun</port>
 	</software>
 	<software name="turricn2">
+		<category></category>
 	</software>
 	<software name="tvfootbl">
+		<category></category>
 	</software>
 	<software name="twylyte">
+		<category></category>
 	</software>
 	<software name="ums">
+		<category></category>
 	</software>
 	<software name="univers3">
+		<category></category>
 	</software>
 	<software name="untouch">
+		<category></category>
 	</software>
 	<software name="vectball">
+		<category></category>
 	</software>
 	<software name="vindictr">
+		<category></category>
 	</software>
 	<software name="virus">
+		<category></category>
 	</software>
 	<software name="wander3d">
+		<category></category>
 	</software>
 	<software name="wanted">
+		<category></category>
 	</software>
 	<software name="warmidle">
+		<category></category>
 	</software>
 	<software name="warhawk">
+		<category></category>
 	</software>
 	<software name="warlock">
+		<category></category>
 	</software>
 	<software name="warlocke">
+		<category></category>
 	</software>
 	<software name="wtsstill">
+		<category></category>
 	</software>
 	<software name="whirligg">
+		<category></category>
 	</software>
 	<software name="wildstrt">
+		<category></category>
 	</software>
 	<software name="wcbox">
+		<category></category>
 	</software>
 	<software name="wclead">
+		<category></category>
 	</software>
 	<software name="wrangler">
+		<category></category>
 	</software>
 	<software name="xout">
+		<category></category>
 	</software>
 	<software name="xenon">
+		<category></category>
 	</software>
 </softwarelist>
